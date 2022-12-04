@@ -5,7 +5,7 @@ function App() {
   const options = [
     {
       value: "init",
-      label: "",
+      label: "Player",
       id: 0,
       ppg: "-",
       rpg: "-",
@@ -73,7 +73,7 @@ function App() {
         <div className="grid grid-cols-3 items-center justify-center">
           <div className="flex flex-col items-center justify-center">
             <SelectPlayer />
-            <h2 className="text-center text-2xl">Player C</h2>
+            <h2 className="text-center text-2xl">{selectedOption.label}</h2>
             <h3 className="my-4 text-center text-2xl">
               {selectedOption && selectedOption.ppg}
             </h3>
