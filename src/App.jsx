@@ -38,22 +38,22 @@ function App() {
   ];
 
   const [selectedOption, setSelectedOption] = useState(options[0]);
-  // const [selectedPlayerB, setselectedPlayerB] = useState();
+  const [selectedPlayerB, setselectedPlayerB] = useState(options[0]);
 
   const handleChange = (selectedOption) => {
     setSelectedOption(selectedOption);
     console.log(`Option selected:`, selectedOption);
   };
-  // const handleChangeB = (selectedPlayerB) => {
-  //   setselectedPlayerB(selectedPlayerB);
-  // };
+  const handleChangeB = (selectedPlayerB) => {
+    setselectedPlayerB(selectedPlayerB);
+  };
 
-  const SelectPlayer = () => (
+  const SelectPlayer = ({ setter }) => (
     <Select
       className="my-5"
       isClearable={true}
       options={options}
-      onChange={handleChange}
+      onChange={setter}
       placeholder="Select a player"
     />
   );
@@ -72,7 +72,7 @@ function App() {
         <div className="flex flex-row justify-center"></div>
         <div className="grid grid-cols-3 items-center justify-center">
           <div className="flex flex-col items-center justify-center">
-            <SelectPlayer />
+            <SelectPlayer setter={handleChange} />
             <h2 className="text-center text-2xl">{selectedOption.label}</h2>
             <h3 className="my-4 text-center text-2xl">
               {selectedOption && selectedOption.ppg}
@@ -91,11 +91,11 @@ function App() {
             <h3 className="my-4 text-center text-2xl">APG</h3>
           </div>
           <div className="flex flex-col items-center justify-center">
-            {/* <SelectPlayer />
-            <h2 className="text-center text-2xl">Player B</h2>
-            <h3 className="my-4 text-center text-2xl">{selectedOption.ppg}</h3>
-            <h3 className="my-4 text-center text-2xl">{selectedOption.rpg}</h3>
-            <h3 className="my-4 text-center text-2xl">{selectedOption.apg}</h3> */}
+            <SelectPlayer setter={handleChangeB} />
+            <h2 className="text-center text-2xl">{selectedPlayerB.label}</h2>
+            <h3 className="my-4 text-center text-2xl">{selectedPlayerB.ppg}</h3>
+            <h3 className="my-4 text-center text-2xl">{selectedPlayerB.rpg}</h3>
+            <h3 className="my-4 text-center text-2xl">{selectedPlayerB.apg}</h3>
           </div>
         </div>
       </div>
