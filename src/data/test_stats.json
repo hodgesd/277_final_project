@@ -1,0 +1,34 @@
+[
+  {
+    "value": "init",
+    "Player": "Player",
+    "ID": 0,
+    "PTS": "-",
+    "TRB": "-",
+    "AST": "-"
+  },
+  {
+    "value": "embiid",
+    "Player": "Joel Embiid",
+    "ID": 1,
+    "PTS": 27.5,
+    "TRB": 13.6,
+    "AST": 3.2
+  },
+  {
+    "value": "harden",
+    "Player": "James Harden",
+    "ID": 2,
+    "PTS": 36.1,
+    "TRB": 6.6,
+    "AST": 7.5
+  },
+  {
+    "value": "lebron",
+    "Player": "LeBron James",
+    "ID": 3,
+    "PTS": 25.3,
+    "TRB": 7.4,
+    "AST": 7.4
+  }
+]
