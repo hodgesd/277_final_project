@@ -61,12 +61,12 @@ function App() {
     <>
       <div
         className="flex flex-col items-center justify-center w-full h-screen"
-        style={
-          {
-            // justifyContent: "center",
-            // width: "200px",
-          }
-        }
+        // style={
+        //   {
+        //     // justifyContent: "center",
+        //     // width: "200px",
+        //   }
+        // }
       >
         <h1 className="my-4 text-center text-4xl">NBA Head2Head</h1>
         <div className="flex flex-row justify-center"></div>
