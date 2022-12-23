@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Select from "react-select";
+import Select, { createFilter } from "react-select";
 import nba_stats from "/Users/derrickhodges/github/277_final_project/src/data/nba_stats.json";
 
 function App() {
@@ -20,24 +20,24 @@ function App() {
     <Select
       className="my-5"
       isClearable={true}
+      virtualized={{
+        height: 300,
+        minOptionSize: 30,
+      }}
       options={stats}
       onChange={setter}
       getOptionLabel={(stats) => stats.Player}
       getOptionValue={(stats) => stats.ID}
+      filterOption={createFilter({ ignoreAccents: false })}
       placeholder="Select a player"
     />
   );
 
   // determine if Player A has more points than Player B
-  const setPTS_PlayerA = () => {
-    if (Number(selectedOption.PTS) > Number(selectedPlayerB.PTS)) {
-      console.log("Player A has more points than Player B");
-      return true;
-    } else {
-      console.log("Player B has more points than Player A");
-      return false;
-    }
-  };
+  const leaderPTS_A =
+    selectedOption.PTS > selectedPlayerB.PTS
+      ? "underline decoration-sky-500"
+      : "";
 
   return (
     <>
@@ -61,9 +61,7 @@ function App() {
             </h3>
             <h3
               className={`my-4 text-center text-2xl ${
-                selectedOption.PTS > selectedPlayerB.PTS
-                  ? "underline decoration-sky-500"
-                  : ""
+                leaderPTS_A ? "bg-yellow-200 underline decoration-sky-500" : ""
               }`}
             >
               {selectedOption.PTS}
@@ -97,9 +95,8 @@ function App() {
             </h3>
             <h3
               className={`my-4 text-center text-2xl ${
-                selectedOption.STL > selectedPlayerB.STL
-                  ? "underline decoration-sky-500"
-                  : ""
+                selectedOption.STL > selectedPlayerB.STL &&
+                "underline decoration-sky-500"
               }`}
             >
               {selectedOption.STL}
@@ -122,9 +119,7 @@ function App() {
             </h3>
             <h3
               className={`my-4 text-center text-2xl ${
-                selectedOption.PTS < selectedPlayerB.PTS
-                  ? "underline decoration-sky-500"
-                  : ""
+                !leaderPTS_A ? "underline decoration-sky-500" : ""
               }`}
             >
               {selectedPlayerB.PTS}
@@ -132,7 +127,7 @@ function App() {
             <h3
               className={`my-4 text-center text-2xl ${
                 selectedOption.TRB < selectedPlayerB.TRB
-                  ? "underline decoration-sky-500"
+                  ? "highlight underline decoration-sky-500"
                   : ""
               }`}
             >
