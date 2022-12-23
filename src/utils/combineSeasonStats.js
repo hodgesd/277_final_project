@@ -33,6 +33,7 @@ export default function combineSeasonStats(stats) {
       //   } games - ${combinedStats[season.Player].G} total games`
       // );
       // combinedStats[season.Player].ID = season.ID;
+      combinedStats[season.Player].G += Number(season.G);
       combinedStats[season.Player].PTS = Number(season.PTS) * Number(season.G);
       combinedStats[season.Player].TRB = Number(season.TRB) * Number(season.G);
       combinedStats[season.Player].AST = Number(season.AST) * Number(season.G);
@@ -50,15 +51,17 @@ export default function combineSeasonStats(stats) {
         combinedStats[season.Player].BLK / combinedStats[season.Player].G;
 
       console.log(
-        `New: ${season.Player} ${combinedStats[season.Player].careerPPG.toFixed(
-          1
-        )} / ${combinedStats[season.Player].careerRPG.toFixed(
-          1
-        )} / ${combinedStats[season.Player].careerAPG.toFixed(
-          1
-        )} / ${combinedStats[season.Player].careerSPG.toFixed(
-          1
-        )} / ${combinedStats[season.Player].careerBPG.toFixed(1)}`
+        `New: ${season.Player}(${season.Year}) ${combinedStats[
+          season.Player
+        ].careerPPG.toFixed(1)} / ${combinedStats[
+          season.Player
+        ].careerRPG.toFixed(1)} / ${combinedStats[
+          season.Player
+        ].careerAPG.toFixed(1)} / ${combinedStats[
+          season.Player
+        ].careerSPG.toFixed(1)} / ${combinedStats[
+          season.Player
+        ].careerBPG.toFixed(1)}`
       );
     } else {
       // If the Player does have an entry, add their stats for this season to their career stats

@@ -5,4 +5,4 @@ import saveJSON from "./saveJSON.js";
 const stats = nba_stats;
 const combinedStats = combineSeasonStats(stats);
 
-saveJSON(combinedStats, "nba_career_stats.json");
+saveJSON(combinedStats, "../data/career_nba_stats.json");
