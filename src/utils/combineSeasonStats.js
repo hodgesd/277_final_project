@@ -4,6 +4,7 @@ export default function combineSeasonStats(stats) {
 
   const blankPlayer = {
     G: 0,
+    ID: 0,
     PTS: 0,
     TRB: 0,
     AST: 0,
@@ -19,6 +20,7 @@ export default function combineSeasonStats(stats) {
       // combinedStats[season.Player] = season;
       // combinedStats[season.Player] = season;
       combinedStats[season.Player] = {
+        ID: 0,
         G: 0,
         PTS: 0,
         TRB: 0,
@@ -34,6 +36,7 @@ export default function combineSeasonStats(stats) {
       // );
       // combinedStats[season.Player].ID = season.ID;
       combinedStats[season.Player].G += Number(season.G);
+      combinedStats[season.Player].ID = Number(season.ID);
       combinedStats[season.Player].PTS = Number(season.PTS) * Number(season.G);
       combinedStats[season.Player].TRB = Number(season.TRB) * Number(season.G);
       combinedStats[season.Player].AST = Number(season.AST) * Number(season.G);
