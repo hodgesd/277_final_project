@@ -9,7 +9,7 @@ async function extractPlayerInfo() {
   const players = [];
 
   // Loop through each letter of the alphabet
-  for (const letter of "ef") {
+  for (const letter of "d") {
     // Open a new page in the browser
     const page = await browser.newPage();
 
@@ -54,7 +54,9 @@ async function extractPlayerInfo() {
 
     // Add the player information for the current letter to the overall array
     console.log(`Found ${letterPlayers.length} players for letter ${letter}`);
-    players.push(...letterPlayers);
+    const playersJson = JSON.stringify(letterPlayers);
+    fs.writeFileSync(`../data/players - ${letter}.json`, playersJson);
+    // players.push(...letterPlayers);
   }
 
   // Close the browser
@@ -67,9 +69,7 @@ async function extractPlayerInfo() {
 const players = await extractPlayerInfo();
 
 // Convert the player information array to a JSON string
-const playersJson = JSON.stringify(players);
 
 // Write the JSON string to the output file
-fs.writeFileSync("players.json", playersJson);
 
 // console.log(players);
