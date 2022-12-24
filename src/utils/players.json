@@ -2,745 +2,1057 @@
   {
     "name": "Alaa Abdelnaby",
     "url": "https://www.basketball-reference.com/players/a/abdelal01.html",
-    "startYear": "1991"
+    "startYear": "1991",
+    "endYear": "1995"
   },
   {
     "name": "Zaid Abdul-Aziz",
     "url": "https://www.basketball-reference.com/players/a/abdulza01.html",
-    "startYear": "1969"
+    "startYear": "1969",
+    "endYear": "1978"
   },
   {
-    "name": "Kareem Abdul-Jabbar*",
+    "name": "Kareem Abdul-Jabbar",
     "url": "https://www.basketball-reference.com/players/a/abdulka01.html",
-    "startYear": "1970"
+    "startYear": "1970",
+    "endYear": "1989"
   },
   {
     "name": "Mahmoud Abdul-Rauf",
     "url": "https://www.basketball-reference.com/players/a/abdulma02.html",
-    "startYear": "1991"
+    "startYear": "1991",
+    "endYear": "2001"
   },
   {
     "name": "Tariq Abdul-Wahad",
     "url": "https://www.basketball-reference.com/players/a/abdulta01.html",
-    "startYear": "1998"
+    "startYear": "1998",
+    "endYear": "2003"
   },
   {
     "name": "Shareef Abdur-Rahim",
     "url": "https://www.basketball-reference.com/players/a/abdursh01.html",
-    "startYear": "1997"
+    "startYear": "1997",
+    "endYear": "2008"
   },
   {
     "name": "Tom Abernethy",
     "url": "https://www.basketball-reference.com/players/a/abernto01.html",
-    "startYear": "1977"
+    "startYear": "1977",
+    "endYear": "1981"
   },
   {
     "name": "Forest Able",
     "url": "https://www.basketball-reference.com/players/a/ablefo01.html",
-    "startYear": "1957"
+    "startYear": "1957",
+    "endYear": "1957"
   },
   {
     "name": "John Abramovic",
     "url": "https://www.basketball-reference.com/players/a/abramjo01.html",
-    "startYear": "1947"
+    "startYear": "1947",
+    "endYear": "1948"
   },
-  { "name": "Álex Abrines", "startYear": "2017" },
-  { "name": "Precious Achiuwa", "startYear": "2021" },
+  {
+    "name": "Álex Abrines",
+    "url": "https://www.basketball-reference.com/players/a/abrinal01.html",
+    "startYear": "2017",
+    "endYear": "2019"
+  },
+  {
+    "name": "Precious Achiuwa",
+    "url": "https://www.basketball-reference.com/players/a/achiupr01.html",
+    "startYear": "2021",
+    "endYear": "2023"
+  },
   {
     "name": "Alex Acker",
     "url": "https://www.basketball-reference.com/players/a/ackeral01.html",
-    "startYear": "2006"
+    "startYear": "2006",
+    "endYear": "2009"
   },
   {
     "name": "Don Ackerman",
     "url": "https://www.basketball-reference.com/players/a/ackerdo01.html",
-    "startYear": "1954"
+    "startYear": "1954",
+    "endYear": "1954"
   },
   {
     "name": "Mark Acres",
     "url": "https://www.basketball-reference.com/players/a/acresma01.html",
-    "startYear": "1988"
+    "startYear": "1988",
+    "endYear": "1993"
   },
   {
     "name": "Bud Acton",
     "url": "https://www.basketball-reference.com/players/a/actonbu01.html",
-    "startYear": "1968"
+    "startYear": "1968",
+    "endYear": "1968"
   },
-  { "name": "Quincy Acy", "startYear": "2013" },
+  {
+    "name": "Quincy Acy",
+    "url": "https://www.basketball-reference.com/players/a/acyqu01.html",
+    "startYear": "2013",
+    "endYear": "2019"
+  },
   {
     "name": "Alvan Adams",
     "url": "https://www.basketball-reference.com/players/a/adamsal01.html",
-    "startYear": "1976"
+    "startYear": "1976",
+    "endYear": "1988"
   },
   {
     "name": "Don Adams",
     "url": "https://www.basketball-reference.com/players/a/adamsdo01.html",
-    "startYear": "1971"
+    "startYear": "1971",
+    "endYear": "1977"
   },
   {
     "name": "George Adams",
     "url": "https://www.basketball-reference.com/players/a/adamsge01.html",
-    "startYear": "1973"
+    "startYear": "1973",
+    "endYear": "1975"
   },
   {
     "name": "Hassan Adams",
     "url": "https://www.basketball-reference.com/players/a/adamsha01.html",
-    "startYear": "2007"
+    "startYear": "2007",
+    "endYear": "2009"
   },
-  { "name": "Player", "startYear": "From" },
-  { "name": "Jaylen Adams", "startYear": "2019" },
+  {
+    "name": "Jaylen Adams",
+    "url": "https://www.basketball-reference.com/players/a/adamsja01.html",
+    "startYear": "2019",
+    "endYear": "2021"
+  },
   {
     "name": "Jordan Adams",
     "url": "https://www.basketball-reference.com/players/a/adamsjo01.html",
-    "startYear": "2015"
+    "startYear": "2015",
+    "endYear": "2016"
   },
   {
     "name": "Michael Adams",
     "url": "https://www.basketball-reference.com/players/a/adamsmi01.html",
-    "startYear": "1986"
+    "startYear": "1986",
+    "endYear": "1996"
   },
-  { "name": "Steven Adams", "startYear": "2014" },
+  {
+    "name": "Steven Adams",
+    "url": "https://www.basketball-reference.com/players/a/adamsst01.html",
+    "startYear": "2014",
+    "endYear": "2023"
+  },
   {
     "name": "Rafael Addison",
     "url": "https://www.basketball-reference.com/players/a/addisra01.html",
-    "startYear": "1987"
+    "startYear": "1987",
+    "endYear": "1997"
   },
-  { "name": "Bam Adebayo", "startYear": "2018" },
-  { "name": "Deng Adel", "startYear": "2019" },
   {
-    "name": "Rick Adelman*",
+    "name": "Bam Adebayo",
+    "url": "https://www.basketball-reference.com/players/a/adebaba01.html",
+    "startYear": "2018",
+    "endYear": "2023"
+  },
+  {
+    "name": "Deng Adel",
+    "url": "https://www.basketball-reference.com/players/a/adelde01.html",
+    "startYear": "2019",
+    "endYear": "2019"
+  },
+  {
+    "name": "Rick Adelman",
     "url": "https://www.basketball-reference.com/players/a/adelmri01.html",
-    "startYear": "1969"
+    "startYear": "1969",
+    "endYear": "1975"
   },
   {
     "name": "Jeff Adrien",
     "url": "https://www.basketball-reference.com/players/a/adrieje01.html",
-    "startYear": "2011"
+    "startYear": "2011",
+    "endYear": "2015"
   },
   {
     "name": "Arron Afflalo",
     "url": "https://www.basketball-reference.com/players/a/afflaar01.html",
-    "startYear": "2008"
+    "startYear": "2008",
+    "endYear": "2018"
   },
-  { "name": "Ochai Agbaji", "startYear": "2023" },
+  {
+    "name": "Ochai Agbaji",
+    "url": "https://www.basketball-reference.com/players/a/agbajoc01.html",
+    "startYear": "2023",
+    "endYear": "2023"
+  },
   {
     "name": "Maurice Ager",
     "url": "https://www.basketball-reference.com/players/a/agerma01.html",
-    "startYear": "2007"
+    "startYear": "2007",
+    "endYear": "2011"
   },
   {
     "name": "Mark Aguirre",
     "url": "https://www.basketball-reference.com/players/a/aguirma01.html",
-    "startYear": "1982"
+    "startYear": "1982",
+    "endYear": "1994"
   },
   {
     "name": "Blake Ahearn",
     "url": "https://www.basketball-reference.com/players/a/ahearbl01.html",
-    "startYear": "2008"
+    "startYear": "2008",
+    "endYear": "2012"
   },
   {
     "name": "Danny Ainge",
     "url": "https://www.basketball-reference.com/players/a/aingeda01.html",
-    "startYear": "1982"
+    "startYear": "1982",
+    "endYear": "1995"
   },
   {
     "name": "Matt Aitch",
     "url": "https://www.basketball-reference.com/players/a/aitchma01.html",
-    "startYear": "1968"
+    "startYear": "1968",
+    "endYear": "1968"
   },
   {
     "name": "Alexis Ajinça",
     "url": "https://www.basketball-reference.com/players/a/ajincal01.html",
-    "startYear": "2009"
+    "startYear": "2009",
+    "endYear": "2017"
   },
   {
     "name": "Henry Akin",
     "url": "https://www.basketball-reference.com/players/a/akinhe01.html",
-    "startYear": "1967"
+    "startYear": "1967",
+    "endYear": "1969"
   },
   {
     "name": "Josh Akognon",
     "url": "https://www.basketball-reference.com/players/a/akognjo01.html",
-    "startYear": "2013"
+    "startYear": "2013",
+    "endYear": "2013"
   },
-  { "name": "DeVaughn Akoon-Purcell", "startYear": "2019" },
-  { "name": "Player", "startYear": "From" },
+  {
+    "name": "DeVaughn Akoon-Purcell",
+    "url": "https://www.basketball-reference.com/players/a/akoonde01.html",
+    "startYear": "2019",
+    "endYear": "2019"
+  },
   {
     "name": "Solomon Alabi",
     "url": "https://www.basketball-reference.com/players/a/alabiso01.html",
-    "startYear": "2011"
+    "startYear": "2011",
+    "endYear": "2012"
   },
   {
     "name": "Mark Alarie",
     "url": "https://www.basketball-reference.com/players/a/alarima01.html",
-    "startYear": "1987"
+    "startYear": "1987",
+    "endYear": "1991"
   },
   {
     "name": "Gary Alcorn",
     "url": "https://www.basketball-reference.com/players/a/alcorga01.html",
-    "startYear": "1960"
+    "startYear": "1960",
+    "endYear": "1961"
   },
-  { "name": "Santi Aldama", "startYear": "2022" },
+  {
+    "name": "Santi Aldama",
+    "url": "https://www.basketball-reference.com/players/a/aldamsa01.html",
+    "startYear": "2022",
+    "endYear": "2023"
+  },
   {
     "name": "Furkan Aldemir",
     "url": "https://www.basketball-reference.com/players/a/aldemfu01.html",
-    "startYear": "2015"
+    "startYear": "2015",
+    "endYear": "2015"
   },
   {
     "name": "Cole Aldrich",
     "url": "https://www.basketball-reference.com/players/a/aldrico01.html",
-    "startYear": "2011"
+    "startYear": "2011",
+    "endYear": "2018"
   },
-  { "name": "LaMarcus Aldridge", "startYear": "2007" },
+  {
+    "name": "LaMarcus Aldridge",
+    "url": "https://www.basketball-reference.com/players/a/aldrila01.html",
+    "startYear": "2007",
+    "endYear": "2022"
+  },
   {
     "name": "Chuck Aleksinas",
     "url": "https://www.basketball-reference.com/players/a/aleksch01.html",
-    "startYear": "1985"
+    "startYear": "1985",
+    "endYear": "1985"
   },
   {
     "name": "Cliff Alexander",
     "url": "https://www.basketball-reference.com/players/a/alexacl01.html",
-    "startYear": "2016"
+    "startYear": "2016",
+    "endYear": "2016"
   },
   {
     "name": "Cory Alexander",
     "url": "https://www.basketball-reference.com/players/a/alexaco01.html",
-    "startYear": "1996"
+    "startYear": "1996",
+    "endYear": "2005"
   },
   {
     "name": "Courtney Alexander",
     "url": "https://www.basketball-reference.com/players/a/alexaco02.html",
-    "startYear": "2001"
+    "startYear": "2001",
+    "endYear": "2003"
   },
   {
     "name": "Gary Alexander",
     "url": "https://www.basketball-reference.com/players/a/alexaga01.html",
-    "startYear": "1994"
+    "startYear": "1994",
+    "endYear": "1994"
   },
   {
     "name": "Joe Alexander",
     "url": "https://www.basketball-reference.com/players/a/alexajo01.html",
-    "startYear": "2009"
+    "startYear": "2009",
+    "endYear": "2010"
   },
-  { "name": "Kyle Alexander", "startYear": "2020" },
-  { "name": "Ty-Shon Alexander", "startYear": "2021" },
+  {
+    "name": "Kyle Alexander",
+    "url": "https://www.basketball-reference.com/players/a/alexaky01.html",
+    "startYear": "2020",
+    "endYear": "2020"
+  },
+  {
+    "name": "Ty-Shon Alexander",
+    "url": "https://www.basketball-reference.com/players/a/alexaty01.html",
+    "startYear": "2021",
+    "endYear": "2021"
+  },
   {
     "name": "Victor Alexander",
     "url": "https://www.basketball-reference.com/players/a/alexavi01.html",
-    "startYear": "1992"
+    "startYear": "1992",
+    "endYear": "2002"
   },
-  { "name": "Nickeil Alexander-Walker", "startYear": "2020" },
+  {
+    "name": "Nickeil Alexander-Walker",
+    "url": "https://www.basketball-reference.com/players/a/alexani01.html",
+    "startYear": "2020",
+    "endYear": "2023"
+  },
   {
     "name": "Steve Alford",
     "url": "https://www.basketball-reference.com/players/a/alforst01.html",
-    "startYear": "1988"
+    "startYear": "1988",
+    "endYear": "1991"
   },
-  { "name": "Rawle Alkins", "startYear": "2019" },
+  {
+    "name": "Rawle Alkins",
+    "url": "https://www.basketball-reference.com/players/a/alkinra01.html",
+    "startYear": "2019",
+    "endYear": "2019"
+  },
   {
     "name": "Bill Allen",
     "url": "https://www.basketball-reference.com/players/a/allenbi01.html",
-    "startYear": "1968"
+    "startYear": "1968",
+    "endYear": "1968"
   },
-  { "name": "Player", "startYear": "From" },
   {
     "name": "Bob Allen",
     "url": "https://www.basketball-reference.com/players/a/allenbo01.html",
-    "startYear": "1969"
+    "startYear": "1969",
+    "endYear": "1969"
   },
-  { "name": "Grayson Allen", "startYear": "2019" },
-  { "name": "Jarrett Allen", "startYear": "2018" },
+  {
+    "name": "Grayson Allen",
+    "url": "https://www.basketball-reference.com/players/a/allengr01.html",
+    "startYear": "2019",
+    "endYear": "2023"
+  },
+  {
+    "name": "Jarrett Allen",
+    "url": "https://www.basketball-reference.com/players/a/allenja01.html",
+    "startYear": "2018",
+    "endYear": "2023"
+  },
   {
     "name": "Jerome Allen",
     "url": "https://www.basketball-reference.com/players/a/allenje01.html",
-    "startYear": "1996"
+    "startYear": "1996",
+    "endYear": "1997"
   },
-  { "name": "Kadeem Allen", "startYear": "2018" },
+  {
+    "name": "Kadeem Allen",
+    "url": "https://www.basketball-reference.com/players/a/allenka01.html",
+    "startYear": "2018",
+    "endYear": "2020"
+  },
   {
     "name": "Lavoy Allen",
     "url": "https://www.basketball-reference.com/players/a/allenla01.html",
-    "startYear": "2012"
+    "startYear": "2012",
+    "endYear": "2017"
   },
   {
     "name": "Lucius Allen",
     "url": "https://www.basketball-reference.com/players/a/allenlu01.html",
-    "startYear": "1970"
+    "startYear": "1970",
+    "endYear": "1979"
   },
   {
     "name": "Malik Allen",
     "url": "https://www.basketball-reference.com/players/a/allenma01.html",
-    "startYear": "2002"
+    "startYear": "2002",
+    "endYear": "2011"
   },
   {
     "name": "Randy Allen",
     "url": "https://www.basketball-reference.com/players/a/allenra01.html",
-    "startYear": "1989"
+    "startYear": "1989",
+    "endYear": "1990"
   },
   {
-    "name": "Ray Allen*",
+    "name": "Ray Allen",
     "url": "https://www.basketball-reference.com/players/a/allenra02.html",
-    "startYear": "1997"
+    "startYear": "1997",
+    "endYear": "2014"
   },
   {
     "name": "Tony Allen",
     "url": "https://www.basketball-reference.com/players/a/allento01.html",
-    "startYear": "2005"
+    "startYear": "2005",
+    "endYear": "2018"
   },
   {
     "name": "Willie Allen",
     "url": "https://www.basketball-reference.com/players/a/allenwi01.html",
-    "startYear": "1972"
+    "startYear": "1972",
+    "endYear": "1972"
   },
   {
     "name": "Odis Allison",
     "url": "https://www.basketball-reference.com/players/a/allisod01.html",
-    "startYear": "1972"
+    "startYear": "1972",
+    "endYear": "1972"
   },
   {
     "name": "Lance Allred",
     "url": "https://www.basketball-reference.com/players/a/allrela01.html",
-    "startYear": "2008"
+    "startYear": "2008",
+    "endYear": "2008"
   },
   {
     "name": "Darrell Allums",
     "url": "https://www.basketball-reference.com/players/a/allumda01.html",
-    "startYear": "1981"
+    "startYear": "1981",
+    "endYear": "1981"
   },
   {
     "name": "Morris Almond",
     "url": "https://www.basketball-reference.com/players/a/almonmo01.html",
-    "startYear": "2008"
+    "startYear": "2008",
+    "endYear": "2012"
   },
   {
     "name": "Derrick Alston",
     "url": "https://www.basketball-reference.com/players/a/alstode01.html",
-    "startYear": "1995"
+    "startYear": "1995",
+    "endYear": "1997"
   },
   {
     "name": "Rafer Alston",
     "url": "https://www.basketball-reference.com/players/a/alstora01.html",
-    "startYear": "2000"
+    "startYear": "2000",
+    "endYear": "2010"
   },
   {
     "name": "Peter Aluma",
     "url": "https://www.basketball-reference.com/players/a/alumape01.html",
-    "startYear": "1999"
+    "startYear": "1999",
+    "endYear": "1999"
   },
-  { "name": "Jose Alvarado", "startYear": "2022" },
-  { "name": "Player", "startYear": "From" },
+  {
+    "name": "Jose Alvarado",
+    "url": "https://www.basketball-reference.com/players/a/alvarjo01.html",
+    "startYear": "2022",
+    "endYear": "2023"
+  },
   {
     "name": "John Amaechi",
     "url": "https://www.basketball-reference.com/players/a/amaecjo01.html",
-    "startYear": "1996"
+    "startYear": "1996",
+    "endYear": "2003"
   },
   {
     "name": "Ashraf Amaya",
     "url": "https://www.basketball-reference.com/players/a/amayaas01.html",
-    "startYear": "1996"
+    "startYear": "1996",
+    "endYear": "1997"
   },
-  { "name": "Al-Farouq Aminu", "startYear": "2011" },
+  {
+    "name": "Al-Farouq Aminu",
+    "url": "https://www.basketball-reference.com/players/a/aminual01.html",
+    "startYear": "2011",
+    "endYear": "2021"
+  },
   {
     "name": "Lou Amundson",
     "url": "https://www.basketball-reference.com/players/a/amundlo01.html",
-    "startYear": "2007"
+    "startYear": "2007",
+    "endYear": "2016"
   },
   {
     "name": "Bob Anderegg",
     "url": "https://www.basketball-reference.com/players/a/anderbo01.html",
-    "startYear": "1960"
+    "startYear": "1960",
+    "endYear": "1960"
   },
   {
     "name": "Chris Andersen",
     "url": "https://www.basketball-reference.com/players/a/anderch01.html",
-    "startYear": "2002"
+    "startYear": "2002",
+    "endYear": "2017"
   },
   {
     "name": "David Andersen",
     "url": "https://www.basketball-reference.com/players/a/anderda03.html",
-    "startYear": "2010"
+    "startYear": "2010",
+    "endYear": "2011"
   },
   {
     "name": "Alan Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderal01.html",
-    "startYear": "2006"
+    "startYear": "2006",
+    "endYear": "2017"
   },
   {
     "name": "Andy Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderan01.html",
-    "startYear": "1968"
+    "startYear": "1968",
+    "endYear": "1970"
   },
   {
     "name": "Antonio Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderan02.html",
-    "startYear": "2010"
+    "startYear": "2010",
+    "endYear": "2010"
   },
   {
     "name": "Cliff Anderson",
     "url": "https://www.basketball-reference.com/players/a/andercl01.html",
-    "startYear": "1968"
+    "startYear": "1968",
+    "endYear": "1971"
   },
   {
     "name": "Dan Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderda01.html",
-    "startYear": "1968"
+    "startYear": "1968",
+    "endYear": "1969"
   },
   {
     "name": "Dan Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderda02.html",
-    "startYear": "1975"
+    "startYear": "1975",
+    "endYear": "1976"
   },
   {
     "name": "Derek Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderde01.html",
-    "startYear": "1998"
+    "startYear": "1998",
+    "endYear": "2008"
   },
   {
     "name": "Dwight Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderdw01.html",
-    "startYear": "1983"
+    "startYear": "1983",
+    "endYear": "1983"
   },
   {
     "name": "Eric Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderer01.html",
-    "startYear": "1993"
+    "startYear": "1993",
+    "endYear": "1994"
   },
   {
     "name": "Greg Anderson",
     "url": "https://www.basketball-reference.com/players/a/andergr01.html",
-    "startYear": "1988"
+    "startYear": "1988",
+    "endYear": "1998"
   },
   {
     "name": "J.J. Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderjj01.html",
-    "startYear": "1983"
+    "startYear": "1983",
+    "endYear": "1985"
   },
   {
     "name": "James Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderja01.html",
-    "startYear": "2011"
+    "startYear": "2011",
+    "endYear": "2016"
   },
   {
     "name": "Jerome Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderje01.html",
-    "startYear": "1976"
+    "startYear": "1976",
+    "endYear": "1977"
   },
-  { "name": "Player", "startYear": "From" },
-  { "name": "Justin Anderson", "startYear": "2016" },
+  {
+    "name": "Justin Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderju01.html",
+    "startYear": "2016",
+    "endYear": "2022"
+  },
   {
     "name": "Kenny Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderke01.html",
-    "startYear": "1992"
+    "startYear": "1992",
+    "endYear": "2005"
   },
   {
     "name": "Kim Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderki01.html",
-    "startYear": "1979"
+    "startYear": "1979",
+    "endYear": "1979"
   },
-  { "name": "Kyle Anderson", "startYear": "2015" },
+  {
+    "name": "Kyle Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderky01.html",
+    "startYear": "2015",
+    "endYear": "2023"
+  },
   {
     "name": "Michael Anderson",
     "url": "https://www.basketball-reference.com/players/a/andermi01.html",
-    "startYear": "1989"
+    "startYear": "1989",
+    "endYear": "1989"
   },
   {
     "name": "Nick Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderni01.html",
-    "startYear": "1990"
+    "startYear": "1990",
+    "endYear": "2002"
   },
   {
     "name": "Richard Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderri01.html",
-    "startYear": "1983"
+    "startYear": "1983",
+    "endYear": "1990"
   },
   {
     "name": "Ron Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderro01.html",
-    "startYear": "1985"
+    "startYear": "1985",
+    "endYear": "1994"
   },
   {
     "name": "Ryan Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderry01.html",
-    "startYear": "2009"
+    "startYear": "2009",
+    "endYear": "2020"
   },
   {
     "name": "Shandon Anderson",
     "url": "https://www.basketball-reference.com/players/a/andersh01.html",
-    "startYear": "1997"
+    "startYear": "1997",
+    "endYear": "2006"
   },
   {
     "name": "Willie Anderson",
     "url": "https://www.basketball-reference.com/players/a/anderwi01.html",
-    "startYear": "1989"
+    "startYear": "1989",
+    "endYear": "1997"
   },
   {
     "name": "Wally Anderzunas",
     "url": "https://www.basketball-reference.com/players/a/anderwa01.html",
-    "startYear": "1970"
+    "startYear": "1970",
+    "endYear": "1970"
   },
   {
     "name": "Martynas Andriuškevičius",
     "url": "https://www.basketball-reference.com/players/a/andrima01.html",
-    "startYear": "2006"
+    "startYear": "2006",
+    "endYear": "2006"
   },
   {
     "name": "Don Anielak",
     "url": "https://www.basketball-reference.com/players/a/anieldo01.html",
-    "startYear": "1955"
+    "startYear": "1955",
+    "endYear": "1955"
   },
-  { "name": "Ike Anigbogu", "startYear": "2018" },
+  {
+    "name": "Ike Anigbogu",
+    "url": "https://www.basketball-reference.com/players/a/anigbik01.html",
+    "startYear": "2018",
+    "endYear": "2019"
+  },
   {
     "name": "Michael Ansley",
     "url": "https://www.basketball-reference.com/players/a/anslemi01.html",
-    "startYear": "1990"
+    "startYear": "1990",
+    "endYear": "1992"
   },
   {
     "name": "Chris Anstey",
     "url": "https://www.basketball-reference.com/players/a/anstech01.html",
-    "startYear": "1998"
+    "startYear": "1998",
+    "endYear": "2000"
   },
-  { "name": "Giannis Antetokounmpo", "startYear": "2014" },
-  { "name": "Kostas Antetokounmpo", "startYear": "2019" },
-  { "name": "Thanasis Antetokounmpo", "startYear": "2016" },
-  { "name": "Player", "startYear": "From" },
-  { "name": "Carmelo Anthony", "startYear": "2004" },
-  { "name": "Cole Anthony", "startYear": "2021" },
+  {
+    "name": "Giannis Antetokounmpo",
+    "url": "https://www.basketball-reference.com/players/a/antetgi01.html",
+    "startYear": "2014",
+    "endYear": "2023"
+  },
+  {
+    "name": "Kostas Antetokounmpo",
+    "url": "https://www.basketball-reference.com/players/a/antetko01.html",
+    "startYear": "2019",
+    "endYear": "2021"
+  },
+  {
+    "name": "Thanasis Antetokounmpo",
+    "url": "https://www.basketball-reference.com/players/a/antetth01.html",
+    "startYear": "2016",
+    "endYear": "2023"
+  },
+  {
+    "name": "Carmelo Anthony",
+    "url": "https://www.basketball-reference.com/players/a/anthoca01.html",
+    "startYear": "2004",
+    "endYear": "2022"
+  },
+  {
+    "name": "Cole Anthony",
+    "url": "https://www.basketball-reference.com/players/a/anthoco01.html",
+    "startYear": "2021",
+    "endYear": "2023"
+  },
   {
     "name": "Greg Anthony",
     "url": "https://www.basketball-reference.com/players/a/anthogr01.html",
-    "startYear": "1992"
+    "startYear": "1992",
+    "endYear": "2002"
   },
   {
     "name": "Joel Anthony",
     "url": "https://www.basketball-reference.com/players/a/anthojo01.html",
-    "startYear": "2008"
+    "startYear": "2008",
+    "endYear": "2017"
   },
   {
     "name": "Pero Antić",
     "url": "https://www.basketball-reference.com/players/a/anticpe01.html",
-    "startYear": "2014"
+    "startYear": "2014",
+    "endYear": "2015"
   },
-  { "name": "OG Anunoby", "startYear": "2018" },
+  {
+    "name": "OG Anunoby",
+    "url": "https://www.basketball-reference.com/players/a/anunoog01.html",
+    "startYear": "2018",
+    "endYear": "2023"
+  },
   {
     "name": "Keith Appling",
     "url": "https://www.basketball-reference.com/players/a/applike01.html",
-    "startYear": "2016"
+    "startYear": "2016",
+    "endYear": "2016"
   },
   {
     "name": "Rafael Araújo",
     "url": "https://www.basketball-reference.com/players/a/araujra01.html",
-    "startYear": "2005"
+    "startYear": "2005",
+    "endYear": "2007"
   },
   {
     "name": "Stacey Arceneaux",
     "url": "https://www.basketball-reference.com/players/a/arcenst01.html",
-    "startYear": "1962"
+    "startYear": "1962",
+    "endYear": "1962"
   },
   {
     "name": "Robert Archibald",
     "url": "https://www.basketball-reference.com/players/a/archiro01.html",
-    "startYear": "2003"
+    "startYear": "2003",
+    "endYear": "2004"
   },
   {
-    "name": "Tiny Archibald*",
+    "name": "Tiny Archibald",
     "url": "https://www.basketball-reference.com/players/a/architi01.html",
-    "startYear": "1971"
+    "startYear": "1971",
+    "endYear": "1984"
   },
-  { "name": "Ryan Arcidiacono", "startYear": "2018" },
+  {
+    "name": "Ryan Arcidiacono",
+    "url": "https://www.basketball-reference.com/players/a/arcidry01.html",
+    "startYear": "2018",
+    "endYear": "2023"
+  },
   {
     "name": "Jim Ard",
     "url": "https://www.basketball-reference.com/players/a/ardji01.html",
-    "startYear": "1971"
+    "startYear": "1971",
+    "endYear": "1978"
   },
   {
     "name": "Gilbert Arenas",
     "url": "https://www.basketball-reference.com/players/a/arenagi01.html",
-    "startYear": "2002"
+    "startYear": "2002",
+    "endYear": "2012"
   },
-  { "name": "Trevor Ariza", "startYear": "2005" },
   {
-    "name": "Paul Arizin*",
+    "name": "Trevor Ariza",
+    "url": "https://www.basketball-reference.com/players/a/arizatr01.html",
+    "startYear": "2005",
+    "endYear": "2022"
+  },
+  {
+    "name": "Paul Arizin",
     "url": "https://www.basketball-reference.com/players/a/arizipa01.html",
-    "startYear": "1951"
+    "startYear": "1951",
+    "endYear": "1962"
   },
   {
     "name": "Joe Arlauckas",
     "url": "https://www.basketball-reference.com/players/a/arlaujo01.html",
-    "startYear": "1988"
+    "startYear": "1988",
+    "endYear": "1988"
   },
   {
     "name": "B.J. Armstrong",
     "url": "https://www.basketball-reference.com/players/a/armstbj01.html",
-    "startYear": "1990"
+    "startYear": "1990",
+    "endYear": "2000"
   },
   {
     "name": "Bob Armstrong",
     "url": "https://www.basketball-reference.com/players/a/armstbo01.html",
-    "startYear": "1957"
+    "startYear": "1957",
+    "endYear": "1957"
   },
   {
     "name": "Brandon Armstrong",
     "url": "https://www.basketball-reference.com/players/a/armstbr01.html",
-    "startYear": "2002"
+    "startYear": "2002",
+    "endYear": "2004"
   },
-  { "name": "Player", "startYear": "From" },
   {
     "name": "Curly Armstrong",
     "url": "https://www.basketball-reference.com/players/a/armstcu01.html",
-    "startYear": "1949"
+    "startYear": "1949",
+    "endYear": "1951"
   },
   {
     "name": "Darrell Armstrong",
     "url": "https://www.basketball-reference.com/players/a/armstda01.html",
-    "startYear": "1995"
+    "startYear": "1995",
+    "endYear": "2008"
   },
   {
     "name": "Hilton Armstrong",
     "url": "https://www.basketball-reference.com/players/a/armsthi01.html",
-    "startYear": "2007"
+    "startYear": "2007",
+    "endYear": "2014"
   },
   {
     "name": "Tate Armstrong",
     "url": "https://www.basketball-reference.com/players/a/armstta01.html",
-    "startYear": "1978"
+    "startYear": "1978",
+    "endYear": "1979"
   },
   {
     "name": "Jesse Arnelle",
     "url": "https://www.basketball-reference.com/players/a/arnelje01.html",
-    "startYear": "1956"
+    "startYear": "1956",
+    "endYear": "1956"
   },
   {
     "name": "Jay Arnette",
     "url": "https://www.basketball-reference.com/players/a/arnetja01.html",
-    "startYear": "1964"
+    "startYear": "1964",
+    "endYear": "1966"
   },
   {
     "name": "Bob Arnzen",
     "url": "https://www.basketball-reference.com/players/a/arnzebo01.html",
-    "startYear": "1970"
+    "startYear": "1970",
+    "endYear": "1974"
   },
   {
     "name": "Carlos Arroyo",
     "url": "https://www.basketball-reference.com/players/a/arroyca01.html",
-    "startYear": "2002"
+    "startYear": "2002",
+    "endYear": "2011"
   },
   {
     "name": "Darrell Arthur",
     "url": "https://www.basketball-reference.com/players/a/arthuda01.html",
-    "startYear": "2009"
+    "startYear": "2009",
+    "endYear": "2018"
   },
   {
     "name": "John Arthurs",
     "url": "https://www.basketball-reference.com/players/a/arthujo01.html",
-    "startYear": "1970"
+    "startYear": "1970",
+    "endYear": "1970"
   },
   {
     "name": "Jamel Artis",
     "url": "https://www.basketball-reference.com/players/a/artisja01.html",
-    "startYear": "2018"
+    "startYear": "2018",
+    "endYear": "2018"
   },
   {
     "name": "Ömer Aşık",
     "url": "https://www.basketball-reference.com/players/a/asikom01.html",
-    "startYear": "2011"
+    "startYear": "2011",
+    "endYear": "2018"
   },
   {
     "name": "Vincent Askew",
     "url": "https://www.basketball-reference.com/players/a/askewvi01.html",
-    "startYear": "1988"
+    "startYear": "1988",
+    "endYear": "1998"
   },
   {
     "name": "Keith Askins",
     "url": "https://www.basketball-reference.com/players/a/askinke01.html",
-    "startYear": "1991"
+    "startYear": "1991",
+    "endYear": "1999"
   },
   {
     "name": "Don Asmonga",
     "url": "https://www.basketball-reference.com/players/a/asmondo01.html",
-    "startYear": "1954"
+    "startYear": "1954",
+    "endYear": "1954"
   },
   {
     "name": "Dick Atha",
     "url": "https://www.basketball-reference.com/players/a/athadi01.html",
-    "startYear": "1956"
+    "startYear": "1956",
+    "endYear": "1958"
   },
   {
     "name": "Chucky Atkins",
     "url": "https://www.basketball-reference.com/players/a/atkinch01.html",
-    "startYear": "2000"
+    "startYear": "2000",
+    "endYear": "2010"
   },
   {
-    "name": "Al Attles*",
+    "name": "Al Attles",
     "url": "https://www.basketball-reference.com/players/a/attleal01.html",
-    "startYear": "1961"
+    "startYear": "1961",
+    "endYear": "1971"
   },
   {
     "name": "Chet Aubuchon",
     "url": "https://www.basketball-reference.com/players/a/aubucch01.html",
-    "startYear": "1947"
+    "startYear": "1947",
+    "endYear": "1947"
   },
   {
     "name": "Stacey Augmon",
     "url": "https://www.basketball-reference.com/players/a/augmost01.html",
-    "startYear": "1992"
+    "startYear": "1992",
+    "endYear": "2006"
   },
-  { "name": "Player", "startYear": "From" },
-  { "name": "D.J. Augustin", "startYear": "2009" },
+  {
+    "name": "D.J. Augustin",
+    "url": "https://www.basketball-reference.com/players/a/augusdj01.html",
+    "startYear": "2009",
+    "endYear": "2022"
+  },
   {
     "name": "James Augustine",
     "url": "https://www.basketball-reference.com/players/a/augusja01.html",
-    "startYear": "2007"
+    "startYear": "2007",
+    "endYear": "2008"
   },
   {
     "name": "Isaac Austin",
     "url": "https://www.basketball-reference.com/players/a/austiis01.html",
-    "startYear": "1992"
+    "startYear": "1992",
+    "endYear": "2002"
   },
   {
     "name": "Johnny Austin",
     "url": "https://www.basketball-reference.com/players/a/austijo01.html",
-    "startYear": "1967"
+    "startYear": "1967",
+    "endYear": "1968"
   },
   {
     "name": "Ken Austin",
     "url": "https://www.basketball-reference.com/players/a/austike01.html",
-    "startYear": "1984"
+    "startYear": "1984",
+    "endYear": "1984"
   },
-  { "name": "Deni Avdija", "startYear": "2021" },
+  {
+    "name": "Deni Avdija",
+    "url": "https://www.basketball-reference.com/players/a/avdijde01.html",
+    "startYear": "2021",
+    "endYear": "2023"
+  },
   {
     "name": "Anthony Avent",
     "url": "https://www.basketball-reference.com/players/a/aventan01.html",
-    "startYear": "1993"
+    "startYear": "1993",
+    "endYear": "2000"
   },
   {
     "name": "Bird Averitt",
     "url": "https://www.basketball-reference.com/players/a/averibi01.html",
-    "startYear": "1974"
+    "startYear": "1974",
+    "endYear": "1978"
   },
   {
     "name": "William Avery",
     "url": "https://www.basketball-reference.com/players/a/averywi01.html",
-    "startYear": "2000"
+    "startYear": "2000",
+    "endYear": "2002"
   },
   {
     "name": "Dennis Awtrey",
     "url": "https://www.basketball-reference.com/players/a/awtrede01.html",
-    "startYear": "1971"
+    "startYear": "1971",
+    "endYear": "1982"
   },
-  { "name": "Joel Ayayi", "startYear": "2022" },
+  {
+    "name": "Joel Ayayi",
+    "url": "https://www.basketball-reference.com/players/a/ayayijo01.html",
+    "startYear": "2022",
+    "endYear": "2022"
+  },
   {
     "name": "Gustavo Ayón",
     "url": "https://www.basketball-reference.com/players/a/ayongu01.html",
-    "startYear": "2012"
+    "startYear": "2012",
+    "endYear": "2014"
   },
   {
     "name": "Jeff Ayres",
     "url": "https://www.basketball-reference.com/players/p/pendeje02.html",
-    "startYear": "2010"
+    "startYear": "2010",
+    "endYear": "2016"
   },
-  { "name": "Deandre Ayton", "startYear": "2019" },
+  {
+    "name": "Deandre Ayton",
+    "url": "https://www.basketball-reference.com/players/a/aytonde01.html",
+    "startYear": "2019",
+    "endYear": "2023"
+  },
   {
     "name": "Kelenna Azubuike",
     "url": "https://www.basketball-reference.com/players/a/azubuke01.html",
-    "startYear": "2007"
+    "startYear": "2007",
+    "endYear": "2012"
   },
-  { "name": "Udoka Azubuike", "startYear": "2021" }
+  {
+    "name": "Udoka Azubuike",
+    "url": "https://www.basketball-reference.com/players/a/azubuud01.html",
+    "startYear": "2021",
+    "endYear": "2023"
+  }
 ]

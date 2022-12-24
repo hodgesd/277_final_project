@@ -17,25 +17,25 @@ async function extractPlayerInfo(url, outputFile) {
   // Evaluate a function on the page to extract the player information
   const players = await page.evaluate(() => {
     // Find the table element
-    const table = document.querySelector(".stats_table");
+    const playerTable = [
+      ...document.querySelectorAll("tr[data-row]:not(.thead)"),
+    ];
 
     // Create an array to store the player information
     const players = [];
 
     // Loop through each row in the table (skipping the first row)
-    for (let i = 1; i < table.rows.length; i++) {
-      // Get the current row
-      const row = table.rows[i];
-
+    playerTable.forEach((player) => {
       // Get the player name and URL from the first cell in the row
-      const nameCell = row.cells[0];
-      const name = nameCell.textContent;
-      const url = nameCell.firstChild.href;
+      const name = player.querySelector("a").textContent;
+      const url = player.querySelector("a").href;
 
-      // Get the start year and end year from the second cell in the row
-      const yearCell = row.cells[1];
-      const startYear = yearCell.textContent.split("-")[0];
-      const endYear = yearCell.textContent.split("-")[1];
+      const startYear = player.querySelector(
+        "td[data-stat='year_min']"
+      )?.textContent;
+      const endYear = player.querySelector(
+        "td[data-stat='year_max']"
+      )?.textContent;
 
       // Add the player information to the array
       players.push({
@@ -44,7 +44,7 @@ async function extractPlayerInfo(url, outputFile) {
         startYear,
         endYear,
       });
-    }
+    });
 
     // Return the array of player information
     return players;
