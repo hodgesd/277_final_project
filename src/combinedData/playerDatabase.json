@@ -1,1958 +1,1958 @@
-[
-  {
-    "name": "Chris Babb",
-    "url": "https://www.basketball-reference.com/players/b/babbch01.html"
-  },
-  {
-    "name": "Luke Babbitt",
-    "url": "https://www.basketball-reference.com/players/b/babbilu01.html"
-  },
-  {
-    "name": "Miloš Babić",
-    "url": "https://www.basketball-reference.com/players/b/babicmi01.html"
-  },
-  {
-    "name": "Johnny Bach",
-    "url": "https://www.basketball-reference.com/players/b/bachjo01.html"
-  },
-  {
-    "name": "Dwayne Bacon",
-    "url": "https://www.basketball-reference.com/players/b/bacondw01.html"
-  },
-  {
-    "name": "Henry Bacon",
-    "url": "https://www.basketball-reference.com/players/b/baconhe01.html"
-  },
-  {
-    "name": "Jim Baechtold",
-    "url": "https://www.basketball-reference.com/players/b/baechji01.html"
-  },
-  {
-    "name": "Dalibor Bagarić",
-    "url": "https://www.basketball-reference.com/players/b/bagarda01.html"
-  },
-  {
-    "name": "John Bagley",
-    "url": "https://www.basketball-reference.com/players/b/baglejo01.html"
-  },
-  {
-    "name": "Marvin Bagley III",
-    "url": "https://www.basketball-reference.com/players/b/baglema01.html"
-  },
-  {
-    "name": "Carl Bailey",
-    "url": "https://www.basketball-reference.com/players/b/baileca01.html"
-  },
-  {
-    "name": "Gus Bailey",
-    "url": "https://www.basketball-reference.com/players/b/bailegu01.html"
-  },
-  {
-    "name": "James Bailey",
-    "url": "https://www.basketball-reference.com/players/b/baileja01.html"
-  },
-  {
-    "name": "Thurl Bailey",
-    "url": "https://www.basketball-reference.com/players/b/baileth01.html"
-  },
-  {
-    "name": "Toby Bailey",
-    "url": "https://www.basketball-reference.com/players/b/baileto01.html"
-  },
-  {
-    "name": "Cameron Bairstow",
-    "url": "https://www.basketball-reference.com/players/b/bairsca01.html"
-  },
-  {
-    "name": "Jimmie Baker",
-    "url": "https://www.basketball-reference.com/players/b/bakerji01.html"
-  },
-  {
-    "name": "Mark Baker",
-    "url": "https://www.basketball-reference.com/players/b/bakerla01.html"
-  },
-  {
-    "name": "Maurice Baker",
-    "url": "https://www.basketball-reference.com/players/b/bakerma01.html"
-  },
-  {
-    "name": "Norm Baker",
-    "url": "https://www.basketball-reference.com/players/b/bakerno01.html"
-  },
-  {
-    "name": "Ron Baker",
-    "url": "https://www.basketball-reference.com/players/b/bakerro01.html"
-  },
-  {
-    "name": "Vin Baker",
-    "url": "https://www.basketball-reference.com/players/b/bakervi01.html"
-  },
-  {
-    "name": "Patrick Baldwin Jr.",
-    "url": "https://www.basketball-reference.com/players/b/baldwpa01.html"
-  },
-  {
-    "name": "Wade Baldwin",
-    "url": "https://www.basketball-reference.com/players/b/baldwwa01.html"
-  },
-  {
-    "name": "Renaldo Balkman",
-    "url": "https://www.basketball-reference.com/players/b/balkmre01.html"
-  },
-  {
-    "name": "Cedric Ball",
-    "url": "https://www.basketball-reference.com/players/b/ballce01.html"
+{
+  "0": {
+    "name": "Alaa Abdelnaby",
+    "url": "https://www.basketball-reference.com/players/a/abdelal01.html"
+  },
+  "1": {
+    "name": "Zaid Abdul-Aziz",
+    "url": "https://www.basketball-reference.com/players/a/abdulza01.html"
+  },
+  "2": {
+    "name": "Kareem Abdul-Jabbar",
+    "url": "https://www.basketball-reference.com/players/a/abdulka01.html"
+  },
+  "3": {
+    "name": "Mahmoud Abdul-Rauf",
+    "url": "https://www.basketball-reference.com/players/a/abdulma02.html"
+  },
+  "4": {
+    "name": "Tariq Abdul-Wahad",
+    "url": "https://www.basketball-reference.com/players/a/abdulta01.html"
+  },
+  "5": {
+    "name": "Shareef Abdur-Rahim",
+    "url": "https://www.basketball-reference.com/players/a/abdursh01.html"
+  },
+  "6": {
+    "name": "Tom Abernethy",
+    "url": "https://www.basketball-reference.com/players/a/abernto01.html"
+  },
+  "7": {
+    "name": "Forest Able",
+    "url": "https://www.basketball-reference.com/players/a/ablefo01.html"
+  },
+  "8": {
+    "name": "John Abramovic",
+    "url": "https://www.basketball-reference.com/players/a/abramjo01.html"
+  },
+  "9": {
+    "name": "Álex Abrines",
+    "url": "https://www.basketball-reference.com/players/a/abrinal01.html"
+  },
+  "10": {
+    "name": "Precious Achiuwa",
+    "url": "https://www.basketball-reference.com/players/a/achiupr01.html"
+  },
+  "11": {
+    "name": "Alex Acker",
+    "url": "https://www.basketball-reference.com/players/a/ackeral01.html"
+  },
+  "12": {
+    "name": "Don Ackerman",
+    "url": "https://www.basketball-reference.com/players/a/ackerdo01.html"
+  },
+  "13": {
+    "name": "Mark Acres",
+    "url": "https://www.basketball-reference.com/players/a/acresma01.html"
+  },
+  "14": {
+    "name": "Bud Acton",
+    "url": "https://www.basketball-reference.com/players/a/actonbu01.html"
+  },
+  "15": {
+    "name": "Quincy Acy",
+    "url": "https://www.basketball-reference.com/players/a/acyqu01.html"
+  },
+  "16": {
+    "name": "Alvan Adams",
+    "url": "https://www.basketball-reference.com/players/a/adamsal01.html"
+  },
+  "17": {
+    "name": "Don Adams",
+    "url": "https://www.basketball-reference.com/players/a/adamsdo01.html"
+  },
+  "18": {
+    "name": "George Adams",
+    "url": "https://www.basketball-reference.com/players/a/adamsge01.html"
+  },
+  "19": {
+    "name": "Hassan Adams",
+    "url": "https://www.basketball-reference.com/players/a/adamsha01.html"
+  },
+  "20": {
+    "name": "Jaylen Adams",
+    "url": "https://www.basketball-reference.com/players/a/adamsja01.html"
+  },
+  "21": {
+    "name": "Jordan Adams",
+    "url": "https://www.basketball-reference.com/players/a/adamsjo01.html"
+  },
+  "22": {
+    "name": "Michael Adams",
+    "url": "https://www.basketball-reference.com/players/a/adamsmi01.html"
+  },
+  "23": {
+    "name": "Steven Adams",
+    "url": "https://www.basketball-reference.com/players/a/adamsst01.html"
+  },
+  "24": {
+    "name": "Rafael Addison",
+    "url": "https://www.basketball-reference.com/players/a/addisra01.html"
+  },
+  "25": {
+    "name": "Bam Adebayo",
+    "url": "https://www.basketball-reference.com/players/a/adebaba01.html"
   },
-  {
-    "name": "LaMelo Ball",
-    "url": "https://www.basketball-reference.com/players/b/ballla01.html"
+  "26": {
+    "name": "Deng Adel",
+    "url": "https://www.basketball-reference.com/players/a/adelde01.html"
   },
-  {
-    "name": "Lonzo Ball",
-    "url": "https://www.basketball-reference.com/players/b/balllo01.html"
+  "27": {
+    "name": "Rick Adelman",
+    "url": "https://www.basketball-reference.com/players/a/adelmri01.html"
   },
-  {
-    "name": "Greg Ballard",
-    "url": "https://www.basketball-reference.com/players/b/ballagr01.html"
+  "28": {
+    "name": "Jeff Adrien",
+    "url": "https://www.basketball-reference.com/players/a/adrieje01.html"
   },
-  {
-    "name": "Herschel Baltimore",
-    "url": "https://www.basketball-reference.com/players/b/baltihe01.html"
+  "29": {
+    "name": "Arron Afflalo",
+    "url": "https://www.basketball-reference.com/players/a/afflaar01.html"
   },
-  {
-    "name": "Mo Bamba",
-    "url": "https://www.basketball-reference.com/players/b/bambamo01.html"
+  "30": {
+    "name": "Ochai Agbaji",
+    "url": "https://www.basketball-reference.com/players/a/agbajoc01.html"
   },
-  {
-    "name": "Paolo Banchero",
-    "url": "https://www.basketball-reference.com/players/b/banchpa01.html"
+  "31": {
+    "name": "Maurice Ager",
+    "url": "https://www.basketball-reference.com/players/a/agerma01.html"
   },
-  {
-    "name": "Desmond Bane",
-    "url": "https://www.basketball-reference.com/players/b/banede01.html"
+  "32": {
+    "name": "Mark Aguirre",
+    "url": "https://www.basketball-reference.com/players/a/aguirma01.html"
   },
-  {
-    "name": "Gene Banks",
-    "url": "https://www.basketball-reference.com/players/b/banksge01.html"
+  "33": {
+    "name": "Blake Ahearn",
+    "url": "https://www.basketball-reference.com/players/a/ahearbl01.html"
   },
-  {
-    "name": "Marcus Banks",
-    "url": "https://www.basketball-reference.com/players/b/banksma01.html"
+  "34": {
+    "name": "Danny Ainge",
+    "url": "https://www.basketball-reference.com/players/a/aingeda01.html"
   },
-  {
-    "name": "Walker Banks",
-    "url": "https://www.basketball-reference.com/players/b/bankswa01.html"
+  "35": {
+    "name": "Matt Aitch",
+    "url": "https://www.basketball-reference.com/players/a/aitchma01.html"
   },
-  {
-    "name": "Ken Bannister",
-    "url": "https://www.basketball-reference.com/players/b/bannike01.html"
+  "36": {
+    "name": "Alexis Ajinça",
+    "url": "https://www.basketball-reference.com/players/a/ajincal01.html"
   },
-  {
-    "name": "Mike Bantom",
-    "url": "https://www.basketball-reference.com/players/b/bantomi01.html"
+  "37": {
+    "name": "Henry Akin",
+    "url": "https://www.basketball-reference.com/players/a/akinhe01.html"
   },
-  {
-    "name": "Dalano Banton",
-    "url": "https://www.basketball-reference.com/players/b/bantoda01.html"
+  "38": {
+    "name": "Josh Akognon",
+    "url": "https://www.basketball-reference.com/players/a/akognjo01.html"
   },
-  {
-    "name": "Cat Barber",
-    "url": "https://www.basketball-reference.com/players/b/barbeca01.html"
+  "39": {
+    "name": "DeVaughn Akoon-Purcell",
+    "url": "https://www.basketball-reference.com/players/a/akoonde01.html"
   },
-  {
-    "name": "John Barber",
-    "url": "https://www.basketball-reference.com/players/b/barbejo01.html"
+  "40": {
+    "name": "Solomon Alabi",
+    "url": "https://www.basketball-reference.com/players/a/alabiso01.html"
   },
-  {
-    "name": "Leandro Barbosa",
-    "url": "https://www.basketball-reference.com/players/b/barbole01.html"
+  "41": {
+    "name": "Mark Alarie",
+    "url": "https://www.basketball-reference.com/players/a/alarima01.html"
   },
-  {
-    "name": "Steve Bardo",
-    "url": "https://www.basketball-reference.com/players/b/bardost01.html"
+  "42": {
+    "name": "Gary Alcorn",
+    "url": "https://www.basketball-reference.com/players/a/alcorga01.html"
   },
-  {
-    "name": "J.J. Barea",
-    "url": "https://www.basketball-reference.com/players/b/bareajo01.html"
+  "43": {
+    "name": "Santi Aldama",
+    "url": "https://www.basketball-reference.com/players/a/aldamsa01.html"
   },
-  {
-    "name": "Andrea Bargnani",
-    "url": "https://www.basketball-reference.com/players/b/bargnan01.html"
+  "44": {
+    "name": "Furkan Aldemir",
+    "url": "https://www.basketball-reference.com/players/a/aldemfu01.html"
   },
-  {
-    "name": "Cliff Barker",
-    "url": "https://www.basketball-reference.com/players/b/barkecl01.html"
+  "45": {
+    "name": "Cole Aldrich",
+    "url": "https://www.basketball-reference.com/players/a/aldrico01.html"
   },
-  {
-    "name": "Tom Barker",
-    "url": "https://www.basketball-reference.com/players/b/barketo01.html"
+  "46": {
+    "name": "LaMarcus Aldridge",
+    "url": "https://www.basketball-reference.com/players/a/aldrila01.html"
   },
-  {
-    "name": "Charles Barkley",
-    "url": "https://www.basketball-reference.com/players/b/barklch01.html"
+  "47": {
+    "name": "Chuck Aleksinas",
+    "url": "https://www.basketball-reference.com/players/a/aleksch01.html"
   },
-  {
-    "name": "Erick Barkley",
-    "url": "https://www.basketball-reference.com/players/b/barkler01.html"
+  "48": {
+    "name": "Cliff Alexander",
+    "url": "https://www.basketball-reference.com/players/a/alexacl01.html"
   },
-  {
-    "name": "Don Barksdale",
-    "url": "https://www.basketball-reference.com/players/b/barksdo01.html"
+  "49": {
+    "name": "Cory Alexander",
+    "url": "https://www.basketball-reference.com/players/a/alexaco01.html"
   },
-  {
-    "name": "Dominick Barlow",
-    "url": "https://www.basketball-reference.com/players/b/barlodo01.html"
+  "50": {
+    "name": "Courtney Alexander",
+    "url": "https://www.basketball-reference.com/players/a/alexaco02.html"
   },
-  {
-    "name": "Harrison Barnes",
-    "url": "https://www.basketball-reference.com/players/b/barneha02.html"
+  "51": {
+    "name": "Gary Alexander",
+    "url": "https://www.basketball-reference.com/players/a/alexaga01.html"
   },
-  {
-    "name": "Harry Barnes",
-    "url": "https://www.basketball-reference.com/players/b/barneha01.html"
+  "52": {
+    "name": "Joe Alexander",
+    "url": "https://www.basketball-reference.com/players/a/alexajo01.html"
   },
-  {
-    "name": "Jim Barnes",
-    "url": "https://www.basketball-reference.com/players/b/barneji01.html"
+  "53": {
+    "name": "Kyle Alexander",
+    "url": "https://www.basketball-reference.com/players/a/alexaky01.html"
   },
-  {
-    "name": "Marvin Barnes",
-    "url": "https://www.basketball-reference.com/players/b/barnema01.html"
+  "54": {
+    "name": "Ty-Shon Alexander",
+    "url": "https://www.basketball-reference.com/players/a/alexaty01.html"
   },
-  {
-    "name": "Matt Barnes",
-    "url": "https://www.basketball-reference.com/players/b/barnema02.html"
+  "55": {
+    "name": "Victor Alexander",
+    "url": "https://www.basketball-reference.com/players/a/alexavi01.html"
   },
-  {
-    "name": "Scottie Barnes",
-    "url": "https://www.basketball-reference.com/players/b/barnesc01.html"
+  "56": {
+    "name": "Nickeil Alexander-Walker",
+    "url": "https://www.basketball-reference.com/players/a/alexani01.html"
   },
-  {
-    "name": "Dick Barnett",
-    "url": "https://www.basketball-reference.com/players/b/barnedi01.html"
+  "57": {
+    "name": "Steve Alford",
+    "url": "https://www.basketball-reference.com/players/a/alforst01.html"
   },
-  {
-    "name": "Jim Barnett",
-    "url": "https://www.basketball-reference.com/players/b/barneji02.html"
+  "58": {
+    "name": "Rawle Alkins",
+    "url": "https://www.basketball-reference.com/players/a/alkinra01.html"
   },
-  {
-    "name": "Nate Barnett",
-    "url": "https://www.basketball-reference.com/players/b/barnena01.html"
+  "59": {
+    "name": "Bill Allen",
+    "url": "https://www.basketball-reference.com/players/a/allenbi01.html"
   },
-  {
-    "name": "John Barnhill",
-    "url": "https://www.basketball-reference.com/players/b/barnhjo01.html"
+  "60": {
+    "name": "Bob Allen",
+    "url": "https://www.basketball-reference.com/players/a/allenbo01.html"
   },
-  {
-    "name": "Norton Barnhill",
-    "url": "https://www.basketball-reference.com/players/b/barnhno01.html"
+  "61": {
+    "name": "Grayson Allen",
+    "url": "https://www.basketball-reference.com/players/a/allengr01.html"
   },
-  {
-    "name": "Leo Barnhorst",
-    "url": "https://www.basketball-reference.com/players/b/barnhle01.html"
+  "62": {
+    "name": "Jarrett Allen",
+    "url": "https://www.basketball-reference.com/players/a/allenja01.html"
   },
-  {
-    "name": "John Barr",
-    "url": "https://www.basketball-reference.com/players/b/barrjo01.html"
+  "63": {
+    "name": "Jerome Allen",
+    "url": "https://www.basketball-reference.com/players/a/allenje01.html"
   },
-  {
-    "name": "Mike Barr",
-    "url": "https://www.basketball-reference.com/players/b/barrmi01.html"
+  "64": {
+    "name": "Kadeem Allen",
+    "url": "https://www.basketball-reference.com/players/a/allenka01.html"
   },
-  {
-    "name": "Moe Barr",
-    "url": "https://www.basketball-reference.com/players/b/barrmo01.html"
+  "65": {
+    "name": "Lavoy Allen",
+    "url": "https://www.basketball-reference.com/players/a/allenla01.html"
   },
-  {
-    "name": "Andre Barrett",
-    "url": "https://www.basketball-reference.com/players/b/barrean01.html"
+  "66": {
+    "name": "Lucius Allen",
+    "url": "https://www.basketball-reference.com/players/a/allenlu01.html"
   },
-  {
-    "name": "Ernie Barrett",
-    "url": "https://www.basketball-reference.com/players/b/barreer01.html"
+  "67": {
+    "name": "Malik Allen",
+    "url": "https://www.basketball-reference.com/players/a/allenma01.html"
   },
-  {
-    "name": "Mike Barrett",
-    "url": "https://www.basketball-reference.com/players/b/barremi01.html"
+  "68": {
+    "name": "Randy Allen",
+    "url": "https://www.basketball-reference.com/players/a/allenra01.html"
   },
-  {
-    "name": "RJ Barrett",
-    "url": "https://www.basketball-reference.com/players/b/barrerj01.html"
+  "69": {
+    "name": "Ray Allen",
+    "url": "https://www.basketball-reference.com/players/a/allenra02.html"
   },
-  {
-    "name": "Earl Barron",
-    "url": "https://www.basketball-reference.com/players/b/barroea01.html"
+  "70": {
+    "name": "Tony Allen",
+    "url": "https://www.basketball-reference.com/players/a/allento01.html"
   },
-  {
-    "name": "Dana Barros",
-    "url": "https://www.basketball-reference.com/players/b/barroda01.html"
+  "71": {
+    "name": "Willie Allen",
+    "url": "https://www.basketball-reference.com/players/a/allenwi01.html"
   },
-  {
-    "name": "Brent Barry",
-    "url": "https://www.basketball-reference.com/players/b/barrybr01.html"
+  "72": {
+    "name": "Odis Allison",
+    "url": "https://www.basketball-reference.com/players/a/allisod01.html"
   },
-  {
-    "name": "Drew Barry",
-    "url": "https://www.basketball-reference.com/players/b/barrydr01.html"
+  "73": {
+    "name": "Lance Allred",
+    "url": "https://www.basketball-reference.com/players/a/allrela01.html"
   },
-  {
-    "name": "Jon Barry",
-    "url": "https://www.basketball-reference.com/players/b/barryjo01.html"
+  "74": {
+    "name": "Darrell Allums",
+    "url": "https://www.basketball-reference.com/players/a/allumda01.html"
   },
-  {
-    "name": "Rick Barry",
-    "url": "https://www.basketball-reference.com/players/b/barryri01.html"
+  "75": {
+    "name": "Morris Almond",
+    "url": "https://www.basketball-reference.com/players/a/almonmo01.html"
   },
-  {
-    "name": "Ed Bartels",
-    "url": "https://www.basketball-reference.com/players/b/barteed01.html"
+  "76": {
+    "name": "Derrick Alston",
+    "url": "https://www.basketball-reference.com/players/a/alstode01.html"
   },
-  {
-    "name": "Vic Bartolome",
-    "url": "https://www.basketball-reference.com/players/b/bartovi01.html"
+  "77": {
+    "name": "Rafer Alston",
+    "url": "https://www.basketball-reference.com/players/a/alstora01.html"
   },
-  {
-    "name": "Will Barton",
-    "url": "https://www.basketball-reference.com/players/b/bartowi01.html"
+  "78": {
+    "name": "Peter Aluma",
+    "url": "https://www.basketball-reference.com/players/a/alumape01.html"
   },
-  {
-    "name": "Eddie Basden",
-    "url": "https://www.basketball-reference.com/players/b/basdeed01.html"
+  "79": {
+    "name": "Jose Alvarado",
+    "url": "https://www.basketball-reference.com/players/a/alvarjo01.html"
   },
-  {
-    "name": "Jerry Baskerville",
-    "url": "https://www.basketball-reference.com/players/b/baskeje01.html"
+  "80": {
+    "name": "John Amaechi",
+    "url": "https://www.basketball-reference.com/players/a/amaecjo01.html"
   },
-  {
-    "name": "Brandon Bass",
-    "url": "https://www.basketball-reference.com/players/b/bassbr01.html"
+  "81": {
+    "name": "Ashraf Amaya",
+    "url": "https://www.basketball-reference.com/players/a/amayaas01.html"
   },
-  {
-    "name": "Paris Bass",
-    "url": "https://www.basketball-reference.com/players/b/basspa01.html"
+  "82": {
+    "name": "Al-Farouq Aminu",
+    "url": "https://www.basketball-reference.com/players/a/aminual01.html"
   },
-  {
-    "name": "Tim Bassett",
-    "url": "https://www.basketball-reference.com/players/b/basseti01.html"
+  "83": {
+    "name": "Lou Amundson",
+    "url": "https://www.basketball-reference.com/players/a/amundlo01.html"
   },
-  {
-    "name": "Charles Bassey",
-    "url": "https://www.basketball-reference.com/players/b/bassech01.html"
+  "84": {
+    "name": "Bob Anderegg",
+    "url": "https://www.basketball-reference.com/players/a/anderbo01.html"
   },
-  {
-    "name": "Maceo Baston",
-    "url": "https://www.basketball-reference.com/players/b/bastoma01.html"
+  "85": {
+    "name": "Chris Andersen",
+    "url": "https://www.basketball-reference.com/players/a/anderch01.html"
   },
-  {
-    "name": "Mengke Bateer",
-    "url": "https://www.basketball-reference.com/players/b/bateeme01.html"
+  "86": {
+    "name": "David Andersen",
+    "url": "https://www.basketball-reference.com/players/a/anderda03.html"
   },
-  {
-    "name": "Billy Ray Bates",
-    "url": "https://www.basketball-reference.com/players/b/batesbi01.html"
+  "87": {
+    "name": "Alan Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderal01.html"
   },
-  {
-    "name": "Keita Bates-Diop",
-    "url": "https://www.basketball-reference.com/players/b/bateske01.html"
+  "88": {
+    "name": "Andy Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderan01.html"
   },
-  {
-    "name": "Esteban Batista",
-    "url": "https://www.basketball-reference.com/players/b/batises01.html"
+  "89": {
+    "name": "Antonio Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderan02.html"
   },
-  {
-    "name": "Mike Batiste",
-    "url": "https://www.basketball-reference.com/players/b/batismi01.html"
+  "90": {
+    "name": "Cliff Anderson",
+    "url": "https://www.basketball-reference.com/players/a/andercl01.html"
   },
-  {
-    "name": "Tony Battie",
-    "url": "https://www.basketball-reference.com/players/b/battito01.html"
+  "91": {
+    "name": "Dan Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderda01.html"
   },
-  {
-    "name": "Shane Battier",
-    "url": "https://www.basketball-reference.com/players/b/battish01.html"
+  "92": {
+    "name": "Dan Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderda02.html"
   },
-  {
-    "name": "John Battle",
-    "url": "https://www.basketball-reference.com/players/b/battljo01.html"
+  "93": {
+    "name": "Derek Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderde01.html"
   },
-  {
-    "name": "Kenny Battle",
-    "url": "https://www.basketball-reference.com/players/b/battlke01.html"
+  "94": {
+    "name": "Dwight Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderdw01.html"
   },
-  {
-    "name": "Dave Batton",
-    "url": "https://www.basketball-reference.com/players/b/battoda01.html"
+  "95": {
+    "name": "Eric Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderer01.html"
   },
-  {
-    "name": "Lloyd Batts",
-    "url": "https://www.basketball-reference.com/players/b/battsll01.html"
+  "96": {
+    "name": "Greg Anderson",
+    "url": "https://www.basketball-reference.com/players/a/andergr01.html"
   },
-  {
-    "name": "Nicolas Batum",
-    "url": "https://www.basketball-reference.com/players/b/batumni01.html"
+  "97": {
+    "name": "J.J. Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderjj01.html"
   },
-  {
-    "name": "Johnny Baum",
-    "url": "https://www.basketball-reference.com/players/b/baumjo01.html"
+  "98": {
+    "name": "James Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderja01.html"
   },
-  {
-    "name": "Frankie Baumholtz",
-    "url": "https://www.basketball-reference.com/players/b/baumhfr01.html"
+  "99": {
+    "name": "Jerome Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderje01.html"
   },
-  {
-    "name": "Lonny Baxter",
-    "url": "https://www.basketball-reference.com/players/b/baxtelo01.html"
+  "100": {
+    "name": "Justin Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderju01.html"
   },
-  {
-    "name": "Jerryd Bayless",
-    "url": "https://www.basketball-reference.com/players/b/bayleje01.html"
+  "101": {
+    "name": "Kenny Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderke01.html"
   },
-  {
-    "name": "Elgin Baylor",
-    "url": "https://www.basketball-reference.com/players/b/bayloel01.html"
+  "102": {
+    "name": "Kim Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderki01.html"
   },
-  {
-    "name": "Howard Bayne",
-    "url": "https://www.basketball-reference.com/players/b/bayneho01.html"
+  "103": {
+    "name": "Kyle Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderky01.html"
   },
-  {
-    "name": "Aron Baynes",
-    "url": "https://www.basketball-reference.com/players/b/baynear01.html"
+  "104": {
+    "name": "Michael Anderson",
+    "url": "https://www.basketball-reference.com/players/a/andermi01.html"
   },
-  {
-    "name": "Sergei Bazarevich",
-    "url": "https://www.basketball-reference.com/players/b/bazarse01.html"
+  "105": {
+    "name": "Nick Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderni01.html"
   },
-  {
-    "name": "Kent Bazemore",
-    "url": "https://www.basketball-reference.com/players/b/bazemke01.html"
+  "106": {
+    "name": "Richard Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderri01.html"
   },
-  {
-    "name": "Darius Bazley",
-    "url": "https://www.basketball-reference.com/players/b/bazleda01.html"
+  "107": {
+    "name": "Ron Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderro01.html"
   },
-  {
-    "name": "Ed Beach",
-    "url": "https://www.basketball-reference.com/players/b/beached01.html"
+  "108": {
+    "name": "Ryan Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderry01.html"
   },
-  {
-    "name": "Bradley Beal",
-    "url": "https://www.basketball-reference.com/players/b/bealbr01.html"
+  "109": {
+    "name": "Shandon Anderson",
+    "url": "https://www.basketball-reference.com/players/a/andersh01.html"
   },
-  {
-    "name": "Al Beard",
-    "url": "https://www.basketball-reference.com/players/b/beardal01.html"
+  "110": {
+    "name": "Willie Anderson",
+    "url": "https://www.basketball-reference.com/players/a/anderwi01.html"
   },
-  {
-    "name": "Butch Beard",
-    "url": "https://www.basketball-reference.com/players/b/beardbu01.html"
+  "111": {
+    "name": "Wally Anderzunas",
+    "url": "https://www.basketball-reference.com/players/a/anderwa01.html"
   },
-  {
-    "name": "Ralph Beard",
-    "url": "https://www.basketball-reference.com/players/b/beardra01.html"
+  "112": {
+    "name": "Martynas Andriuškevičius",
+    "url": "https://www.basketball-reference.com/players/a/andrima01.html"
   },
-  {
-    "name": "Charlie Beasley",
-    "url": "https://www.basketball-reference.com/players/b/beaslch01.html"
+  "113": {
+    "name": "Don Anielak",
+    "url": "https://www.basketball-reference.com/players/a/anieldo01.html"
   },
-  {
-    "name": "Jerome Beasley",
-    "url": "https://www.basketball-reference.com/players/b/beaslje01.html"
+  "114": {
+    "name": "Ike Anigbogu",
+    "url": "https://www.basketball-reference.com/players/a/anigbik01.html"
   },
-  {
-    "name": "John Beasley",
-    "url": "https://www.basketball-reference.com/players/b/beasljo01.html"
+  "115": {
+    "name": "Michael Ansley",
+    "url": "https://www.basketball-reference.com/players/a/anslemi01.html"
   },
-  {
-    "name": "Malik Beasley",
-    "url": "https://www.basketball-reference.com/players/b/beaslma01.html"
+  "116": {
+    "name": "Chris Anstey",
+    "url": "https://www.basketball-reference.com/players/a/anstech01.html"
   },
-  {
-    "name": "Michael Beasley",
-    "url": "https://www.basketball-reference.com/players/b/beaslmi01.html"
+  "117": {
+    "name": "Giannis Antetokounmpo",
+    "url": "https://www.basketball-reference.com/players/a/antetgi01.html"
   },
-  {
-    "name": "Zelmo Beaty",
-    "url": "https://www.basketball-reference.com/players/b/beatyze01.html"
+  "118": {
+    "name": "Kostas Antetokounmpo",
+    "url": "https://www.basketball-reference.com/players/a/antetko01.html"
   },
-  {
-    "name": "Rodrigue Beaubois",
-    "url": "https://www.basketball-reference.com/players/b/beaubro01.html"
+  "119": {
+    "name": "Thanasis Antetokounmpo",
+    "url": "https://www.basketball-reference.com/players/a/antetth01.html"
   },
-  {
-    "name": "MarJon Beauchamp",
-    "url": "https://www.basketball-reference.com/players/b/beaucma01.html"
+  "120": {
+    "name": "Carmelo Anthony",
+    "url": "https://www.basketball-reference.com/players/a/anthoca01.html"
   },
-  {
-    "name": "Byron Beck",
-    "url": "https://www.basketball-reference.com/players/b/beckby01.html"
+  "121": {
+    "name": "Cole Anthony",
+    "url": "https://www.basketball-reference.com/players/a/anthoco01.html"
   },
-  {
-    "name": "Corey Beck",
-    "url": "https://www.basketball-reference.com/players/b/beckco01.html"
+  "122": {
+    "name": "Greg Anthony",
+    "url": "https://www.basketball-reference.com/players/a/anthogr01.html"
   },
-  {
-    "name": "Ernie Beck",
-    "url": "https://www.basketball-reference.com/players/b/becker01.html"
+  "123": {
+    "name": "Joel Anthony",
+    "url": "https://www.basketball-reference.com/players/a/anthojo01.html"
   },
-  {
-    "name": "Art Becker",
-    "url": "https://www.basketball-reference.com/players/b/beckear01.html"
+  "124": {
+    "name": "Pero Antić",
+    "url": "https://www.basketball-reference.com/players/a/anticpe01.html"
   },
-  {
-    "name": "Moe Becker",
-    "url": "https://www.basketball-reference.com/players/b/beckemo01.html"
+  "125": {
+    "name": "OG Anunoby",
+    "url": "https://www.basketball-reference.com/players/a/anunoog01.html"
   },
-  {
-    "name": "Bob Bedell",
-    "url": "https://www.basketball-reference.com/players/b/bedelbo01.html"
+  "126": {
+    "name": "Keith Appling",
+    "url": "https://www.basketball-reference.com/players/a/applike01.html"
   },
-  {
-    "name": "William Bedford",
-    "url": "https://www.basketball-reference.com/players/b/bedfowi01.html"
+  "127": {
+    "name": "Rafael Araújo",
+    "url": "https://www.basketball-reference.com/players/a/araujra01.html"
   },
-  {
-    "name": "Hank Beenders",
-    "url": "https://www.basketball-reference.com/players/b/beendha01.html"
+  "128": {
+    "name": "Stacey Arceneaux",
+    "url": "https://www.basketball-reference.com/players/a/arcenst01.html"
   },
-  {
-    "name": "Ron Behagen",
-    "url": "https://www.basketball-reference.com/players/b/behagro01.html"
+  "129": {
+    "name": "Robert Archibald",
+    "url": "https://www.basketball-reference.com/players/a/archiro01.html"
   },
-  {
-    "name": "Elmer Behnke",
-    "url": "https://www.basketball-reference.com/players/b/behnkel01.html"
+  "130": {
+    "name": "Tiny Archibald",
+    "url": "https://www.basketball-reference.com/players/a/architi01.html"
   },
-  {
-    "name": "Marco Belinelli",
-    "url": "https://www.basketball-reference.com/players/b/belinma01.html"
+  "131": {
+    "name": "Ryan Arcidiacono",
+    "url": "https://www.basketball-reference.com/players/a/arcidry01.html"
   },
-  {
-    "name": "Charlie Bell",
-    "url": "https://www.basketball-reference.com/players/b/bellch01.html"
+  "132": {
+    "name": "Jim Ard",
+    "url": "https://www.basketball-reference.com/players/a/ardji01.html"
   },
-  {
-    "name": "Dennis Bell",
-    "url": "https://www.basketball-reference.com/players/b/bellde01.html"
+  "133": {
+    "name": "Gilbert Arenas",
+    "url": "https://www.basketball-reference.com/players/a/arenagi01.html"
   },
-  {
-    "name": "Jordan Bell",
-    "url": "https://www.basketball-reference.com/players/b/belljo01.html"
+  "134": {
+    "name": "Trevor Ariza",
+    "url": "https://www.basketball-reference.com/players/a/arizatr01.html"
   },
-  {
-    "name": "Raja Bell",
-    "url": "https://www.basketball-reference.com/players/b/bellra01.html"
+  "135": {
+    "name": "Paul Arizin",
+    "url": "https://www.basketball-reference.com/players/a/arizipa01.html"
   },
-  {
-    "name": "Troy Bell",
-    "url": "https://www.basketball-reference.com/players/b/belltr01.html"
+  "136": {
+    "name": "Joe Arlauckas",
+    "url": "https://www.basketball-reference.com/players/a/arlaujo01.html"
   },
-  {
-    "name": "Whitey Bell",
-    "url": "https://www.basketball-reference.com/players/b/bellwh01.html"
+  "137": {
+    "name": "B.J. Armstrong",
+    "url": "https://www.basketball-reference.com/players/a/armstbj01.html"
   },
-  {
-    "name": "Walt Bellamy",
-    "url": "https://www.basketball-reference.com/players/b/bellawa01.html"
+  "138": {
+    "name": "Bob Armstrong",
+    "url": "https://www.basketball-reference.com/players/a/armstbo01.html"
   },
-  {
-    "name": "DeAndre' Bembry",
-    "url": "https://www.basketball-reference.com/players/b/bembrde01.html"
+  "139": {
+    "name": "Brandon Armstrong",
+    "url": "https://www.basketball-reference.com/players/a/armstbr01.html"
   },
-  {
-    "name": "Irv Bemoras",
-    "url": "https://www.basketball-reference.com/players/b/bemorir01.html"
+  "140": {
+    "name": "Curly Armstrong",
+    "url": "https://www.basketball-reference.com/players/a/armstcu01.html"
   },
-  {
-    "name": "Leon Benbow",
-    "url": "https://www.basketball-reference.com/players/b/benbole01.html"
+  "141": {
+    "name": "Darrell Armstrong",
+    "url": "https://www.basketball-reference.com/players/a/armstda01.html"
   },
-  {
-    "name": "Dragan Bender",
-    "url": "https://www.basketball-reference.com/players/b/bendedr01.html"
+  "142": {
+    "name": "Hilton Armstrong",
+    "url": "https://www.basketball-reference.com/players/a/armsthi01.html"
   },
-  {
-    "name": "Jonathan Bender",
-    "url": "https://www.basketball-reference.com/players/b/bendejo01.html"
+  "143": {
+    "name": "Tate Armstrong",
+    "url": "https://www.basketball-reference.com/players/a/armstta01.html"
   },
-  {
-    "name": "Jerrelle Benimon",
-    "url": "https://www.basketball-reference.com/players/b/benimje01.html"
+  "144": {
+    "name": "Jesse Arnelle",
+    "url": "https://www.basketball-reference.com/players/a/arnelje01.html"
   },
-  {
-    "name": "Benoit Benjamin",
-    "url": "https://www.basketball-reference.com/players/b/benjabe01.html"
+  "145": {
+    "name": "Jay Arnette",
+    "url": "https://www.basketball-reference.com/players/a/arnetja01.html"
   },
-  {
-    "name": "Corey Benjamin",
-    "url": "https://www.basketball-reference.com/players/b/benjaco01.html"
+  "146": {
+    "name": "Bob Arnzen",
+    "url": "https://www.basketball-reference.com/players/a/arnzebo01.html"
   },
-  {
-    "name": "Anthony Bennett",
-    "url": "https://www.basketball-reference.com/players/b/bennean01.html"
+  "147": {
+    "name": "Carlos Arroyo",
+    "url": "https://www.basketball-reference.com/players/a/arroyca01.html"
   },
-  {
-    "name": "Elmer Bennett",
-    "url": "https://www.basketball-reference.com/players/b/benneel01.html"
+  "148": {
+    "name": "Darrell Arthur",
+    "url": "https://www.basketball-reference.com/players/a/arthuda01.html"
   },
-  {
-    "name": "Mario Bennett",
-    "url": "https://www.basketball-reference.com/players/b/bennema01.html"
+  "149": {
+    "name": "John Arthurs",
+    "url": "https://www.basketball-reference.com/players/a/arthujo01.html"
   },
-  {
-    "name": "Mel Bennett",
-    "url": "https://www.basketball-reference.com/players/b/benneme01.html"
+  "150": {
+    "name": "Jamel Artis",
+    "url": "https://www.basketball-reference.com/players/a/artisja01.html"
   },
-  {
-    "name": "Spider Bennett",
-    "url": "https://www.basketball-reference.com/players/b/bennesp01.html"
+  "151": {
+    "name": "Ömer Aşık",
+    "url": "https://www.basketball-reference.com/players/a/asikom01.html"
   },
-  {
-    "name": "Tony Bennett",
-    "url": "https://www.basketball-reference.com/players/b/benneto01.html"
+  "152": {
+    "name": "Vincent Askew",
+    "url": "https://www.basketball-reference.com/players/a/askewvi01.html"
   },
-  {
-    "name": "Winston Bennett",
-    "url": "https://www.basketball-reference.com/players/b/bennewi01.html"
+  "153": {
+    "name": "Keith Askins",
+    "url": "https://www.basketball-reference.com/players/a/askinke01.html"
   },
-  {
-    "name": "David Benoit",
-    "url": "https://www.basketball-reference.com/players/b/benoida01.html"
+  "154": {
+    "name": "Don Asmonga",
+    "url": "https://www.basketball-reference.com/players/a/asmondo01.html"
   },
-  {
-    "name": "Keith Benson",
-    "url": "https://www.basketball-reference.com/players/b/bensoke02.html"
+  "155": {
+    "name": "Dick Atha",
+    "url": "https://www.basketball-reference.com/players/a/athadi01.html"
   },
-  {
-    "name": "Kent Benson",
-    "url": "https://www.basketball-reference.com/players/b/bensoke01.html"
+  "156": {
+    "name": "Chucky Atkins",
+    "url": "https://www.basketball-reference.com/players/a/atkinch01.html"
   },
-  {
-    "name": "Ben Bentil",
-    "url": "https://www.basketball-reference.com/players/b/bentibe01.html"
+  "157": {
+    "name": "Al Attles",
+    "url": "https://www.basketball-reference.com/players/a/attleal01.html"
   },
-  {
-    "name": "Gene Berce",
-    "url": "https://www.basketball-reference.com/players/b/bercege01.html"
+  "158": {
+    "name": "Chet Aubuchon",
+    "url": "https://www.basketball-reference.com/players/a/aubucch01.html"
   },
-  {
-    "name": "Gary Bergen",
-    "url": "https://www.basketball-reference.com/players/b/bergega01.html"
+  "159": {
+    "name": "Stacey Augmon",
+    "url": "https://www.basketball-reference.com/players/a/augmost01.html"
   },
-  {
-    "name": "Larry Bergh",
-    "url": "https://www.basketball-reference.com/players/b/berghla01.html"
+  "160": {
+    "name": "D.J. Augustin",
+    "url": "https://www.basketball-reference.com/players/a/augusdj01.html"
   },
-  {
-    "name": "Ricky Berry",
-    "url": "https://www.basketball-reference.com/players/b/berryri01.html"
+  "161": {
+    "name": "James Augustine",
+    "url": "https://www.basketball-reference.com/players/a/augusja01.html"
   },
-  {
-    "name": "Walter Berry",
-    "url": "https://www.basketball-reference.com/players/b/berrywa01.html"
+  "162": {
+    "name": "Isaac Austin",
+    "url": "https://www.basketball-reference.com/players/a/austiis01.html"
   },
-  {
-    "name": "Dairis Bertāns",
-    "url": "https://www.basketball-reference.com/players/b/bertada02.html"
+  "163": {
+    "name": "Johnny Austin",
+    "url": "https://www.basketball-reference.com/players/a/austijo01.html"
   },
-  {
-    "name": "Dāvis Bertāns",
-    "url": "https://www.basketball-reference.com/players/b/bertada01.html"
+  "164": {
+    "name": "Ken Austin",
+    "url": "https://www.basketball-reference.com/players/a/austike01.html"
   },
-  {
-    "name": "Del Beshore",
-    "url": "https://www.basketball-reference.com/players/b/beshode01.html"
+  "165": {
+    "name": "Deni Avdija",
+    "url": "https://www.basketball-reference.com/players/a/avdijde01.html"
   },
-  {
-    "name": "Travis Best",
-    "url": "https://www.basketball-reference.com/players/b/besttr01.html"
+  "166": {
+    "name": "Anthony Avent",
+    "url": "https://www.basketball-reference.com/players/a/aventan01.html"
   },
-  {
-    "name": "Patrick Beverley",
-    "url": "https://www.basketball-reference.com/players/b/beverpa01.html"
+  "167": {
+    "name": "Bird Averitt",
+    "url": "https://www.basketball-reference.com/players/a/averibi01.html"
   },
-  {
-    "name": "Saddiq Bey",
-    "url": "https://www.basketball-reference.com/players/b/beysa01.html"
+  "168": {
+    "name": "William Avery",
+    "url": "https://www.basketball-reference.com/players/a/averywi01.html"
   },
-  {
-    "name": "Tyler Bey",
-    "url": "https://www.basketball-reference.com/players/b/beyty01.html"
+  "169": {
+    "name": "Dennis Awtrey",
+    "url": "https://www.basketball-reference.com/players/a/awtrede01.html"
   },
-  {
-    "name": "Sim Bhullar",
-    "url": "https://www.basketball-reference.com/players/b/bhullsi01.html"
+  "170": {
+    "name": "Joel Ayayi",
+    "url": "https://www.basketball-reference.com/players/a/ayayijo01.html"
   },
-  {
-    "name": "Wes Bialosuknia",
-    "url": "https://www.basketball-reference.com/players/b/bialowe01.html"
+  "171": {
+    "name": "Gustavo Ayón",
+    "url": "https://www.basketball-reference.com/players/a/ayongu01.html"
   },
-  {
-    "name": "Al Bianchi",
-    "url": "https://www.basketball-reference.com/players/b/biancal01.html"
+  "172": {
+    "name": "Jeff Ayres",
+    "url": "https://www.basketball-reference.com/players/p/pendeje02.html"
   },
-  {
-    "name": "Hank Biasatti",
-    "url": "https://www.basketball-reference.com/players/b/biasaha01.html"
+  "173": {
+    "name": "Deandre Ayton",
+    "url": "https://www.basketball-reference.com/players/a/aytonde01.html"
   },
-  {
-    "name": "Henry Bibby",
-    "url": "https://www.basketball-reference.com/players/b/bibbyhe01.html"
+  "174": {
+    "name": "Kelenna Azubuike",
+    "url": "https://www.basketball-reference.com/players/a/azubuke01.html"
   },
-  {
-    "name": "Mike Bibby",
-    "url": "https://www.basketball-reference.com/players/b/bibbymi01.html"
+  "175": {
+    "name": "Udoka Azubuike",
+    "url": "https://www.basketball-reference.com/players/a/azubuud01.html"
   },
-  {
+  "176": {
     "name": "Ed Biedenbach",
     "url": "https://www.basketball-reference.com/players/b/biedeed01.html"
   },
-  {
+  "177": {
     "name": "Andris Biedriņš",
     "url": "https://www.basketball-reference.com/players/b/biedran01.html"
   },
-  {
+  "178": {
     "name": "Don Bielke",
     "url": "https://www.basketball-reference.com/players/b/bielkdo01.html"
   },
-  {
+  "179": {
     "name": "Bob Bigelow",
     "url": "https://www.basketball-reference.com/players/b/bigelbo01.html"
   },
-  {
+  "180": {
     "name": "Lionel Billingy",
     "url": "https://www.basketball-reference.com/players/b/billili01.html"
   },
-  {
+  "181": {
     "name": "Chauncey Billups",
     "url": "https://www.basketball-reference.com/players/b/billuch01.html"
   },
-  {
+  "182": {
     "name": "Dave Bing",
     "url": "https://www.basketball-reference.com/players/b/bingda01.html"
   },
-  {
+  "183": {
     "name": "Joe Binion",
     "url": "https://www.basketball-reference.com/players/b/biniojo01.html"
   },
-  {
+  "184": {
     "name": "Khem Birch",
     "url": "https://www.basketball-reference.com/players/b/birchkh01.html"
   },
-  {
+  "185": {
     "name": "Jabari Bird",
     "url": "https://www.basketball-reference.com/players/b/birdja01.html"
   },
-  {
+  "186": {
     "name": "Jerry Bird",
     "url": "https://www.basketball-reference.com/players/b/birdje01.html"
   },
-  {
+  "187": {
     "name": "Larry Bird",
     "url": "https://www.basketball-reference.com/players/b/birdla01.html"
   },
-  {
+  "188": {
     "name": "Otis Birdsong",
     "url": "https://www.basketball-reference.com/players/b/birdsot01.html"
   },
-  {
+  "189": {
     "name": "Gale Bishop",
     "url": "https://www.basketball-reference.com/players/b/bishoga01.html"
   },
-  {
+  "190": {
     "name": "Goga Bitadze",
     "url": "https://www.basketball-reference.com/players/b/bitadgo01.html"
   },
-  {
+  "191": {
     "name": "Bismack Biyombo",
     "url": "https://www.basketball-reference.com/players/b/biyombi01.html"
   },
-  {
+  "192": {
     "name": "Nemanja Bjelica",
     "url": "https://www.basketball-reference.com/players/b/bjeline01.html"
   },
-  {
+  "193": {
     "name": "Uwe Blab",
     "url": "https://www.basketball-reference.com/players/b/blabuw01.html"
   },
-  {
+  "194": {
     "name": "Charlie Black",
     "url": "https://www.basketball-reference.com/players/b/blackch01.html"
   },
-  {
+  "195": {
     "name": "Norman Black",
     "url": "https://www.basketball-reference.com/players/b/blackno01.html"
   },
-  {
+  "196": {
     "name": "Tarik Black",
     "url": "https://www.basketball-reference.com/players/b/blackta01.html"
   },
-  {
+  "197": {
     "name": "Tom Black",
     "url": "https://www.basketball-reference.com/players/b/blackto01.html"
   },
-  {
+  "198": {
     "name": "Rolando Blackman",
     "url": "https://www.basketball-reference.com/players/b/blackro01.html"
   },
-  {
+  "199": {
     "name": "Alex Blackwell",
     "url": "https://www.basketball-reference.com/players/b/blackal01.html"
   },
-  {
+  "200": {
     "name": "Cory Blackwell",
     "url": "https://www.basketball-reference.com/players/b/blackco01.html"
   },
-  {
+  "201": {
     "name": "James Blackwell",
     "url": "https://www.basketball-reference.com/players/b/blackja01.html"
   },
-  {
+  "202": {
     "name": "Nate Blackwell",
     "url": "https://www.basketball-reference.com/players/b/blackna01.html"
   },
-  {
+  "203": {
     "name": "DeJuan Blair",
     "url": "https://www.basketball-reference.com/players/b/blairde01.html"
   },
-  {
+  "204": {
     "name": "Steve Blake",
     "url": "https://www.basketball-reference.com/players/b/blakest01.html"
   },
-  {
+  "205": {
     "name": "Antonio Blakeney",
     "url": "https://www.basketball-reference.com/players/b/blakean01.html"
   },
-  {
+  "206": {
     "name": "Will Blalock",
     "url": "https://www.basketball-reference.com/players/b/blalowi01.html"
   },
-  {
+  "207": {
     "name": "George Blaney",
     "url": "https://www.basketball-reference.com/players/b/blanege01.html"
   },
-  {
+  "208": {
     "name": "Lance Blanks",
     "url": "https://www.basketball-reference.com/players/b/blankla01.html"
   },
-  {
+  "209": {
     "name": "Ricky Blanton",
     "url": "https://www.basketball-reference.com/players/b/blantri01.html"
   },
-  {
+  "210": {
     "name": "Andray Blatche",
     "url": "https://www.basketball-reference.com/players/b/blatcan01.html"
   },
-  {
+  "211": {
     "name": "Mookie Blaylock",
     "url": "https://www.basketball-reference.com/players/b/blaylmo01.html"
   },
-  {
+  "212": {
     "name": "Eric Bledsoe",
     "url": "https://www.basketball-reference.com/players/b/bledser01.html"
   },
-  {
+  "213": {
     "name": "Keljin Blevins",
     "url": "https://www.basketball-reference.com/players/b/blevike01.html"
   },
-  {
+  "214": {
     "name": "Leon Blevins",
     "url": "https://www.basketball-reference.com/players/b/blevile01.html"
   },
-  {
+  "215": {
     "name": "John Block",
     "url": "https://www.basketball-reference.com/players/b/blockjo01.html"
   },
-  {
+  "216": {
     "name": "Mike Bloom",
     "url": "https://www.basketball-reference.com/players/b/bloommi01.html"
   },
-  {
+  "217": {
     "name": "Jaron Blossomgame",
     "url": "https://www.basketball-reference.com/players/b/blossja01.html"
   },
-  {
+  "218": {
     "name": "Corie Blount",
     "url": "https://www.basketball-reference.com/players/b/blounco01.html"
   },
-  {
+  "219": {
     "name": "Mark Blount",
     "url": "https://www.basketball-reference.com/players/b/blounma01.html"
   },
-  {
+  "220": {
     "name": "Vander Blue",
     "url": "https://www.basketball-reference.com/players/b/blueva01.html"
   },
-  {
+  "221": {
     "name": "Ray Blume",
     "url": "https://www.basketball-reference.com/players/b/blumera01.html"
   },
-  {
+  "222": {
     "name": "Nelson Bobb",
     "url": "https://www.basketball-reference.com/players/b/bobbne01.html"
   },
-  {
+  "223": {
     "name": "Tony Bobbitt",
     "url": "https://www.basketball-reference.com/players/b/bobbito01.html"
   },
-  {
+  "224": {
     "name": "Bucky Bockhorn",
     "url": "https://www.basketball-reference.com/players/b/bockhbu01.html"
   },
-  {
+  "225": {
     "name": "Buddy Boeheim",
     "url": "https://www.basketball-reference.com/players/b/boehebu01.html"
   },
-  {
+  "226": {
     "name": "Tom Boerwinkle",
     "url": "https://www.basketball-reference.com/players/b/boerwto01.html"
   },
-  {
+  "227": {
     "name": "Keith Bogans",
     "url": "https://www.basketball-reference.com/players/b/boganke01.html"
   },
-  {
+  "228": {
     "name": "Bogdan Bogdanović",
     "url": "https://www.basketball-reference.com/players/b/bogdabo01.html"
   },
-  {
+  "229": {
     "name": "Bojan Bogdanović",
     "url": "https://www.basketball-reference.com/players/b/bogdabo02.html"
   },
-  {
+  "230": {
     "name": "Muggsy Bogues",
     "url": "https://www.basketball-reference.com/players/b/boguemu01.html"
   },
-  {
+  "231": {
     "name": "Andrew Bogut",
     "url": "https://www.basketball-reference.com/players/b/bogutan01.html"
   },
-  {
+  "232": {
     "name": "Etdrick Bohannon",
     "url": "https://www.basketball-reference.com/players/b/bohanet01.html"
   },
-  {
+  "233": {
     "name": "Bol Bol",
     "url": "https://www.basketball-reference.com/players/b/bolbo01.html"
   },
-  {
+  "234": {
     "name": "Manute Bol",
     "url": "https://www.basketball-reference.com/players/b/bolma01.html"
   },
-  {
+  "235": {
     "name": "Jonah Bolden",
     "url": "https://www.basketball-reference.com/players/b/boldejo01.html"
   },
-  {
+  "236": {
     "name": "Marques Bolden",
     "url": "https://www.basketball-reference.com/players/b/boldema01.html"
   },
-  {
+  "237": {
     "name": "Bill Bolger",
     "url": "https://www.basketball-reference.com/players/b/bolgebi01.html"
   },
-  {
+  "238": {
     "name": "Leandro Bolmaro",
     "url": "https://www.basketball-reference.com/players/b/bolmale01.html"
   },
-  {
+  "239": {
     "name": "Joel Bolomboy",
     "url": "https://www.basketball-reference.com/players/b/bolomjo01.html"
   },
-  {
+  "240": {
     "name": "Doug Bolstorff",
     "url": "https://www.basketball-reference.com/players/b/bolstdo01.html"
   },
-  {
+  "241": {
     "name": "George Bon Salle",
     "url": "https://www.basketball-reference.com/players/b/bonsage01.html"
   },
-  {
+  "242": {
     "name": "Phil Bond",
     "url": "https://www.basketball-reference.com/players/b/bondph01.html"
   },
-  {
+  "243": {
     "name": "Walter Bond",
     "url": "https://www.basketball-reference.com/players/b/bondwa01.html"
   },
-  {
+  "244": {
     "name": "Jordan Bone",
     "url": "https://www.basketball-reference.com/players/b/bonejo01.html"
   },
-  {
+  "245": {
     "name": "Dexter Boney",
     "url": "https://www.basketball-reference.com/players/b/boneyde01.html"
   },
-  {
+  "246": {
     "name": "Isaac Bonga",
     "url": "https://www.basketball-reference.com/players/b/bongais01.html"
   },
-  {
+  "247": {
     "name": "Ron Bonham",
     "url": "https://www.basketball-reference.com/players/b/bonharo01.html"
   },
-  {
+  "248": {
     "name": "Anthony Bonner",
     "url": "https://www.basketball-reference.com/players/b/bonnean01.html"
   },
-  {
+  "249": {
     "name": "Matt Bonner",
     "url": "https://www.basketball-reference.com/players/b/bonnema01.html"
   },
-  {
+  "250": {
     "name": "Butch Booker",
     "url": "https://www.basketball-reference.com/players/b/bookebu01.html"
   },
-  {
+  "251": {
     "name": "Devin Booker",
     "url": "https://www.basketball-reference.com/players/b/bookede01.html"
   },
-  {
+  "252": {
     "name": "Melvin Booker",
     "url": "https://www.basketball-reference.com/players/b/bookeme01.html"
   },
-  {
+  "253": {
     "name": "Trevor Booker",
     "url": "https://www.basketball-reference.com/players/b/booketr01.html"
   },
-  {
+  "254": {
     "name": "Josh Boone",
     "url": "https://www.basketball-reference.com/players/b/boonejo01.html"
   },
-  {
+  "255": {
     "name": "Ron Boone",
     "url": "https://www.basketball-reference.com/players/b/boonero01.html"
   },
-  {
+  "256": {
     "name": "Calvin Booth",
     "url": "https://www.basketball-reference.com/players/b/boothca01.html"
   },
-  {
+  "257": {
     "name": "Keith Booth",
     "url": "https://www.basketball-reference.com/players/b/boothke01.html"
   },
-  {
+  "258": {
     "name": "Bob Boozer",
     "url": "https://www.basketball-reference.com/players/b/boozebo01.html"
   },
-  {
+  "259": {
     "name": "Carlos Boozer",
     "url": "https://www.basketball-reference.com/players/b/boozeca01.html"
   },
-  {
+  "260": {
     "name": "Curtis Borchardt",
     "url": "https://www.basketball-reference.com/players/b/borchcu01.html"
   },
-  {
+  "261": {
     "name": "Jake Bornheimer",
     "url": "https://www.basketball-reference.com/players/b/bornhja01.html"
   },
-  {
+  "262": {
     "name": "Lazaro Borrell",
     "url": "https://www.basketball-reference.com/players/b/borrela01.html"
   },
-  {
+  "263": {
     "name": "Ike Borsavage",
     "url": "https://www.basketball-reference.com/players/b/borsaik01.html"
   },
-  {
+  "264": {
     "name": "Vince Boryla",
     "url": "https://www.basketball-reference.com/players/b/borylvi01.html"
   },
-  {
+  "265": {
     "name": "Chris Bosh",
     "url": "https://www.basketball-reference.com/players/b/boshch01.html"
   },
-  {
+  "266": {
     "name": "Jim Bostic",
     "url": "https://www.basketball-reference.com/players/b/bostiji01.html"
   },
-  {
+  "267": {
     "name": "Brandon Boston Jr.",
     "url": "https://www.basketball-reference.com/players/b/bostobr01.html"
   },
-  {
+  "268": {
     "name": "Lawrence Boston",
     "url": "https://www.basketball-reference.com/players/b/bostola01.html"
   },
-  {
+  "269": {
     "name": "Tom Boswell",
     "url": "https://www.basketball-reference.com/players/b/bosweto01.html"
   },
-  {
+  "270": {
     "name": "Chris Boucher",
     "url": "https://www.basketball-reference.com/players/b/bouchch01.html"
   },
-  {
+  "271": {
     "name": "James Bouknight",
     "url": "https://www.basketball-reference.com/players/b/bouknja01.html"
   },
-  {
+  "272": {
     "name": "Ruben Boumtje-Boumtje",
     "url": "https://www.basketball-reference.com/players/b/boumtru01.html"
   },
-  {
+  "273": {
     "name": "Don Boven",
     "url": "https://www.basketball-reference.com/players/b/bovendo01.html"
   },
-  {
+  "274": {
     "name": "Cal Bowdler",
     "url": "https://www.basketball-reference.com/players/b/bowdlca01.html"
   },
-  {
+  "275": {
     "name": "Brian Bowen",
     "url": "https://www.basketball-reference.com/players/b/bowenbr02.html"
   },
-  {
+  "276": {
     "name": "Bruce Bowen",
     "url": "https://www.basketball-reference.com/players/b/bowenbr01.html"
   },
-  {
+  "277": {
     "name": "Ryan Bowen",
     "url": "https://www.basketball-reference.com/players/b/bowenry01.html"
   },
-  {
+  "278": {
     "name": "Tommie Bowens",
     "url": "https://www.basketball-reference.com/players/b/bowento01.html"
   },
-  {
+  "279": {
     "name": "Anthony Bowie",
     "url": "https://www.basketball-reference.com/players/b/bowiean01.html"
   },
-  {
+  "280": {
     "name": "Sam Bowie",
     "url": "https://www.basketball-reference.com/players/b/bowiesa01.html"
   },
-  {
+  "281": {
     "name": "Orb Bowling",
     "url": "https://www.basketball-reference.com/players/b/bowlior01.html"
   },
-  {
+  "282": {
     "name": "Ira Bowman",
     "url": "https://www.basketball-reference.com/players/b/bowmair01.html"
   },
-  {
+  "283": {
     "name": "Ky Bowman",
     "url": "https://www.basketball-reference.com/players/b/bowmaky01.html"
   },
-  {
+  "284": {
     "name": "Nate Bowman",
     "url": "https://www.basketball-reference.com/players/b/bowmana01.html"
   },
-  {
+  "285": {
     "name": "Donnie Boyce",
     "url": "https://www.basketball-reference.com/players/b/boycedo01.html"
   },
-  {
+  "286": {
     "name": "Dennis Boyd",
     "url": "https://www.basketball-reference.com/players/b/boydde01.html"
   },
-  {
+  "287": {
     "name": "Freddie Boyd",
     "url": "https://www.basketball-reference.com/players/b/boydfr01.html"
   },
-  {
+  "288": {
     "name": "Ken Boyd",
     "url": "https://www.basketball-reference.com/players/b/boydke01.html"
   },
-  {
+  "289": {
     "name": "Earl Boykins",
     "url": "https://www.basketball-reference.com/players/b/boykiea01.html"
   },
-  {
+  "290": {
     "name": "Harry Boykoff",
     "url": "https://www.basketball-reference.com/players/b/boykoha01.html"
   },
-  {
+  "291": {
     "name": "Winford Boynes",
     "url": "https://www.basketball-reference.com/players/b/boynewi01.html"
   },
-  {
+  "292": {
     "name": "Cedric Bozeman",
     "url": "https://www.basketball-reference.com/players/b/bozemce01.html"
   },
-  {
+  "293": {
     "name": "Steve Bracey",
     "url": "https://www.basketball-reference.com/players/b/bracest01.html"
   },
-  {
+  "294": {
     "name": "Craig Brackins",
     "url": "https://www.basketball-reference.com/players/b/brackcr01.html"
   },
-  {
+  "295": {
     "name": "Gary Bradds",
     "url": "https://www.basketball-reference.com/players/b/braddga01.html"
   },
-  {
+  "296": {
     "name": "Alex Bradley",
     "url": "https://www.basketball-reference.com/players/b/bradlal02.html"
   },
-  {
+  "297": {
     "name": "Alonzo Bradley",
     "url": "https://www.basketball-reference.com/players/b/bradlal01.html"
   },
-  {
+  "298": {
     "name": "Avery Bradley",
     "url": "https://www.basketball-reference.com/players/b/bradlav01.html"
   },
-  {
+  "299": {
     "name": "Bill Bradley",
     "url": "https://www.basketball-reference.com/players/b/bradlbi02.html"
   },
-  {
+  "300": {
     "name": "Bill Bradley",
     "url": "https://www.basketball-reference.com/players/b/bradlbi01.html"
   },
-  {
+  "301": {
     "name": "Charles Bradley",
     "url": "https://www.basketball-reference.com/players/b/bradlch01.html"
   },
-  {
+  "302": {
     "name": "Dudley Bradley",
     "url": "https://www.basketball-reference.com/players/b/bradldu01.html"
   },
-  {
+  "303": {
     "name": "Jim Bradley",
     "url": "https://www.basketball-reference.com/players/b/bradlji01.html"
   },
-  {
+  "304": {
     "name": "Joe Bradley",
     "url": "https://www.basketball-reference.com/players/b/bradljo01.html"
   },
-  {
+  "305": {
     "name": "Michael Bradley",
     "url": "https://www.basketball-reference.com/players/b/bradlmi01.html"
   },
-  {
+  "306": {
     "name": "Shawn Bradley",
     "url": "https://www.basketball-reference.com/players/b/bradlsh01.html"
   },
-  {
+  "307": {
     "name": "Tony Bradley",
     "url": "https://www.basketball-reference.com/players/b/bradlto01.html"
   },
-  {
+  "308": {
     "name": "Mark Bradtke",
     "url": "https://www.basketball-reference.com/players/b/bradtma01.html"
   },
-  {
+  "309": {
     "name": "Marques Bragg",
     "url": "https://www.basketball-reference.com/players/b/braggma01.html"
   },
-  {
+  "310": {
     "name": "Torraye Braggs",
     "url": "https://www.basketball-reference.com/players/b/braggto01.html"
   },
-  {
+  "311": {
     "name": "A.J. Bramlett",
     "url": "https://www.basketball-reference.com/players/b/bramlaj01.html"
   },
-  {
+  "312": {
     "name": "Adrian Branch",
     "url": "https://www.basketball-reference.com/players/b/brancad01.html"
   },
-  {
+  "313": {
     "name": "Elton Brand",
     "url": "https://www.basketball-reference.com/players/b/brandel01.html"
   },
-  {
+  "314": {
     "name": "Terrell Brandon",
     "url": "https://www.basketball-reference.com/players/b/brandte01.html"
   },
-  {
+  "315": {
     "name": "Malaki Branham",
     "url": "https://www.basketball-reference.com/players/b/branhma01.html"
   },
-  {
+  "316": {
     "name": "Bob Brannum",
     "url": "https://www.basketball-reference.com/players/b/brannbo01.html"
   },
-  {
+  "317": {
     "name": "Brad Branson",
     "url": "https://www.basketball-reference.com/players/b/bransbr01.html"
   },
-  {
+  "318": {
     "name": "Jesse Branson",
     "url": "https://www.basketball-reference.com/players/b/bransje01.html"
   },
-  {
+  "319": {
     "name": "Jarrell Brantley",
     "url": "https://www.basketball-reference.com/players/b/brantja01.html"
   },
-  {
+  "320": {
     "name": "Jim Brasco",
     "url": "https://www.basketball-reference.com/players/b/brascji01.html"
   },
-  {
+  "321": {
     "name": "Mike Bratz",
     "url": "https://www.basketball-reference.com/players/b/bratzmi01.html"
   },
-  {
+  "322": {
     "name": "Carl Braun",
     "url": "https://www.basketball-reference.com/players/b/braunca01.html"
   },
-  {
+  "323": {
     "name": "Christian Braun",
     "url": "https://www.basketball-reference.com/players/b/braunch01.html"
   },
-  {
+  "324": {
     "name": "Ignas Brazdeikis",
     "url": "https://www.basketball-reference.com/players/b/brazdig01.html"
   },
-  {
+  "325": {
     "name": "Tim Breaux",
     "url": "https://www.basketball-reference.com/players/b/breauti01.html"
   },
-  {
+  "326": {
     "name": "J.R. Bremer",
     "url": "https://www.basketball-reference.com/players/b/bremejr01.html"
   },
-  {
+  "327": {
     "name": "Pete Brennan",
     "url": "https://www.basketball-reference.com/players/b/brennpe01.html"
   },
-  {
+  "328": {
     "name": "Tom Brennan",
     "url": "https://www.basketball-reference.com/players/b/brennto01.html"
   },
-  {
+  "329": {
     "name": "Randy Breuer",
     "url": "https://www.basketball-reference.com/players/b/breuera01.html"
   },
-  {
+  "330": {
     "name": "Corey Brewer",
     "url": "https://www.basketball-reference.com/players/b/breweco01.html"
   },
-  {
+  "331": {
     "name": "Jamison Brewer",
     "url": "https://www.basketball-reference.com/players/b/breweja01.html"
   },
-  {
+  "332": {
     "name": "Jim Brewer",
     "url": "https://www.basketball-reference.com/players/b/breweji01.html"
   },
-  {
+  "333": {
     "name": "Ron Brewer",
     "url": "https://www.basketball-reference.com/players/b/brewero01.html"
   },
-  {
+  "334": {
     "name": "Ronnie Brewer",
     "url": "https://www.basketball-reference.com/players/b/brewero02.html"
   },
-  {
+  "335": {
     "name": "Primož Brezec",
     "url": "https://www.basketball-reference.com/players/b/brezepr01.html"
   },
-  {
+  "336": {
     "name": "Frankie Brian",
     "url": "https://www.basketball-reference.com/players/b/brianfr01.html"
   },
-  {
+  "337": {
     "name": "Frank Brickowski",
     "url": "https://www.basketball-reference.com/players/b/brickfr01.html"
   },
-  {
+  "338": {
     "name": "Junior Bridgeman",
     "url": "https://www.basketball-reference.com/players/b/bridgju01.html"
   },
-  {
+  "339": {
     "name": "Bill Bridges",
     "url": "https://www.basketball-reference.com/players/b/bridgbi01.html"
   },
-  {
+  "340": {
     "name": "Mikal Bridges",
     "url": "https://www.basketball-reference.com/players/b/bridgmi01.html"
   },
-  {
+  "341": {
     "name": "Miles Bridges",
     "url": "https://www.basketball-reference.com/players/b/bridgmi02.html"
   },
-  {
+  "342": {
     "name": "Al Brightman",
     "url": "https://www.basketball-reference.com/players/b/brighal01.html"
   },
-  {
+  "343": {
     "name": "Amida Brimah",
     "url": "https://www.basketball-reference.com/players/b/brimaam01.html"
   },
-  {
+  "344": {
     "name": "Aud Brindley",
     "url": "https://www.basketball-reference.com/players/b/brindau01.html"
   },
-  {
+  "345": {
     "name": "Isaiah Briscoe",
     "url": "https://www.basketball-reference.com/players/b/briscis01.html"
   },
-  {
+  "346": {
     "name": "John Brisker",
     "url": "https://www.basketball-reference.com/players/b/briskjo01.html"
   },
-  {
+  "347": {
     "name": "Oshae Brissett",
     "url": "https://www.basketball-reference.com/players/b/brissos01.html"
   },
-  {
+  "348": {
     "name": "Allan Bristow",
     "url": "https://www.basketball-reference.com/players/b/bristal01.html"
   },
-  {
+  "349": {
     "name": "Tyrone Britt",
     "url": "https://www.basketball-reference.com/players/b/brittty01.html"
   },
-  {
+  "350": {
     "name": "Wayman Britt",
     "url": "https://www.basketball-reference.com/players/b/brittwa01.html"
   },
-  {
+  "351": {
     "name": "Mike Brittain",
     "url": "https://www.basketball-reference.com/players/b/brittmi01.html"
   },
-  {
+  "352": {
     "name": "Dave Britton",
     "url": "https://www.basketball-reference.com/players/b/brittda01.html"
   },
-  {
+  "353": {
     "name": "Jon Brockman",
     "url": "https://www.basketball-reference.com/players/b/brockjo01.html"
   },
-  {
+  "354": {
     "name": "Ryan Broekhoff",
     "url": "https://www.basketball-reference.com/players/b/broekry01.html"
   },
-  {
+  "355": {
     "name": "Jim Brogan",
     "url": "https://www.basketball-reference.com/players/b/brogaji01.html"
   },
-  {
+  "356": {
     "name": "Malcolm Brogdon",
     "url": "https://www.basketball-reference.com/players/b/brogdma01.html"
   },
-  {
+  "357": {
     "name": "Gary Brokaw",
     "url": "https://www.basketball-reference.com/players/b/brokaga01.html"
   },
-  {
+  "358": {
     "name": "Price Brookfield",
     "url": "https://www.basketball-reference.com/players/b/brookpr01.html"
   },
-  {
+  "359": {
     "name": "Clarence Brookins",
     "url": "https://www.basketball-reference.com/players/b/brookcl01.html"
   },
-  {
+  "360": {
     "name": "Aaron Brooks",
     "url": "https://www.basketball-reference.com/players/b/brookaa01.html"
   },
-  {
+  "361": {
     "name": "Armoni Brooks",
     "url": "https://www.basketball-reference.com/players/b/brookar01.html"
   },
-  {
+  "362": {
     "name": "Dillon Brooks",
     "url": "https://www.basketball-reference.com/players/b/brookdi01.html"
   },
-  {
+  "363": {
     "name": "Kevin Brooks",
     "url": "https://www.basketball-reference.com/players/b/brookke01.html"
   },
-  {
+  "364": {
     "name": "MarShon Brooks",
     "url": "https://www.basketball-reference.com/players/b/brookma01.html"
   },
-  {
+  "365": {
     "name": "Michael Brooks",
     "url": "https://www.basketball-reference.com/players/b/brookmi01.html"
   },
-  {
+  "366": {
     "name": "Scott Brooks",
     "url": "https://www.basketball-reference.com/players/b/brooksc01.html"
   },
-  {
+  "367": {
     "name": "Andre Brown",
     "url": "https://www.basketball-reference.com/players/b/brownan01.html"
   },
-  {
+  "368": {
     "name": "Anthony Brown",
     "url": "https://www.basketball-reference.com/players/b/brownan02.html"
   },
-  {
+  "369": {
     "name": "Bob Brown",
     "url": "https://www.basketball-reference.com/players/b/brownbo01.html"
   },
-  {
+  "370": {
     "name": "Bobby Brown",
     "url": "https://www.basketball-reference.com/players/b/brownbo02.html"
   },
-  {
+  "371": {
     "name": "Bruce Brown",
     "url": "https://www.basketball-reference.com/players/b/brownbr01.html"
   },
-  {
+  "372": {
     "name": "Charlie Brown Jr.",
     "url": "https://www.basketball-reference.com/players/b/brownch02.html"
   },
-  {
+  "373": {
     "name": "Chaundee Brown Jr.",
     "url": "https://www.basketball-reference.com/players/b/brownch05.html"
   },
-  {
+  "374": {
     "name": "Chucky Brown",
     "url": "https://www.basketball-reference.com/players/b/brownch01.html"
   },
-  {
+  "375": {
     "name": "Damone Brown",
     "url": "https://www.basketball-reference.com/players/b/brownda02.html"
   },
-  {
+  "376": {
     "name": "Darrel Brown",
     "url": "https://www.basketball-reference.com/players/b/brownda01.html"
   },
-  {
+  "377": {
     "name": "Dee Brown",
     "url": "https://www.basketball-reference.com/players/b/brownde01.html"
   },
-  {
+  "378": {
     "name": "Dee Brown",
     "url": "https://www.basketball-reference.com/players/b/brownde03.html"
   },
-  {
+  "379": {
     "name": "Derrick Brown",
     "url": "https://www.basketball-reference.com/players/b/brownde04.html"
   },
-  {
+  "380": {
     "name": "Devin Brown",
     "url": "https://www.basketball-reference.com/players/b/brownde02.html"
   },
-  {
+  "381": {
     "name": "Ernest Brown",
     "url": "https://www.basketball-reference.com/players/b/browner01.html"
   },
-  {
+  "382": {
     "name": "Fred Brown",
     "url": "https://www.basketball-reference.com/players/b/brownfr01.html"
   },
-  {
+  "383": {
     "name": "George Brown",
     "url": "https://www.basketball-reference.com/players/b/brownge01.html"
   },
-  {
+  "384": {
     "name": "Gerald Brown",
     "url": "https://www.basketball-reference.com/players/b/brownge02.html"
   },
-  {
+  "385": {
     "name": "Greg Brown III",
     "url": "https://www.basketball-reference.com/players/b/browngr01.html"
   },
-  {
+  "386": {
     "name": "Harold Brown",
     "url": "https://www.basketball-reference.com/players/b/brownha01.html"
   },
-  {
+  "387": {
     "name": "Jabari Brown",
     "url": "https://www.basketball-reference.com/players/b/brownja01.html"
   },
-  {
+  "388": {
     "name": "Jaylen Brown",
     "url": "https://www.basketball-reference.com/players/b/brownja02.html"
   },
-  {
+  "389": {
     "name": "John Brown",
     "url": "https://www.basketball-reference.com/players/b/brownjo01.html"
   },
-  {
+  "390": {
     "name": "Kedrick Brown",
     "url": "https://www.basketball-reference.com/players/b/brownke01.html"
   },
-  {
+  "391": {
     "name": "Kendall Brown",
     "url": "https://www.basketball-reference.com/players/b/brownke03.html"
   },
-  {
+  "392": {
     "name": "Kwame Brown",
     "url": "https://www.basketball-reference.com/players/b/brownkw01.html"
   },
-  {
+  "393": {
     "name": "Larry Brown",
     "url": "https://www.basketball-reference.com/players/b/brownla01.html"
   },
-  {
+  "394": {
     "name": "Leon Brown",
     "url": "https://www.basketball-reference.com/players/b/brownle01.html"
   },
-  {
+  "395": {
     "name": "Lewis Brown",
     "url": "https://www.basketball-reference.com/players/b/brownle02.html"
   },
-  {
+  "396": {
     "name": "Lorenzo Brown",
     "url": "https://www.basketball-reference.com/players/b/brownlo01.html"
   },
-  {
+  "397": {
     "name": "Marcus Brown",
     "url": "https://www.basketball-reference.com/players/b/brownma01.html"
   },
-  {
+  "398": {
     "name": "Markel Brown",
     "url": "https://www.basketball-reference.com/players/b/brownma02.html"
   },
-  {
+  "399": {
     "name": "Mike Brown",
     "url": "https://www.basketball-reference.com/players/b/brownmi01.html"
   },
-  {
+  "400": {
     "name": "Moses Brown",
     "url": "https://www.basketball-reference.com/players/b/brownmo01.html"
   },
-  {
+  "401": {
     "name": "Myron Brown",
     "url": "https://www.basketball-reference.com/players/b/brownmy01.html"
   },
-  {
+  "402": {
     "name": "P.J. Brown",
     "url": "https://www.basketball-reference.com/players/b/brownpj01.html"
   },
-  {
+  "403": {
     "name": "Randy Brown",
     "url": "https://www.basketball-reference.com/players/b/brownra02.html"
   },
-  {
+  "404": {
     "name": "Raymond Brown",
     "url": "https://www.basketball-reference.com/players/b/brownra01.html"
   },
-  {
+  "405": {
     "name": "Rickey Brown",
     "url": "https://www.basketball-reference.com/players/b/brownri01.html"
   },
-  {
+  "406": {
     "name": "Roger Brown",
     "url": "https://www.basketball-reference.com/players/b/brownro01.html"
   },
-  {
+  "407": {
     "name": "Roger Brown",
     "url": "https://www.basketball-reference.com/players/b/brownro02.html"
   },
-  {
+  "408": {
     "name": "Shannon Brown",
     "url": "https://www.basketball-reference.com/players/b/brownsh01.html"
   },
-  {
+  "409": {
     "name": "Stan Brown",
     "url": "https://www.basketball-reference.com/players/b/brownst01.html"
   },
-  {
+  "410": {
     "name": "Sterling Brown",
     "url": "https://www.basketball-reference.com/players/b/brownst02.html"
   },
-  {
+  "411": {
     "name": "Tierre Brown",
     "url": "https://www.basketball-reference.com/players/b/brownti01.html"
   },
-  {
+  "412": {
     "name": "Tony Brown",
     "url": "https://www.basketball-reference.com/players/b/brownto01.html"
   },
-  {
+  "413": {
     "name": "Troy Brown Jr.",
     "url": "https://www.basketball-reference.com/players/b/browntr01.html"
   },
-  {
+  "414": {
     "name": "Jim Browne",
     "url": "https://www.basketball-reference.com/players/b/brownji01.html"
   },
-  {
+  "415": {
     "name": "Stanley Brundy",
     "url": "https://www.basketball-reference.com/players/b/brundst01.html"
   },
-  {
+  "416": {
     "name": "Brian Brunkhorst",
     "url": "https://www.basketball-reference.com/players/b/brunkbr01.html"
   },
-  {
+  "417": {
     "name": "George Bruns",
     "url": "https://www.basketball-reference.com/players/b/brunsge01.html"
   },
-  {
+  "418": {
     "name": "Jalen Brunson",
     "url": "https://www.basketball-reference.com/players/b/brunsja01.html"
   },
-  {
+  "419": {
     "name": "Rick Brunson",
     "url": "https://www.basketball-reference.com/players/b/brunsri01.html"
   },
-  {
+  "420": {
     "name": "Nicolás Brussino",
     "url": "https://www.basketball-reference.com/players/b/brussni01.html"
   },
-  {
+  "421": {
     "name": "Elijah Bryant",
     "url": "https://www.basketball-reference.com/players/b/bryanel01.html"
   },
-  {
+  "422": {
     "name": "Em Bryant",
     "url": "https://www.basketball-reference.com/players/b/bryanem01.html"
   },
-  {
+  "423": {
     "name": "Joe Bryant",
     "url": "https://www.basketball-reference.com/players/b/bryanjo01.html"
   },
-  {
+  "424": {
     "name": "Kobe Bryant",
     "url": "https://www.basketball-reference.com/players/b/bryanko01.html"
   },
-  {
+  "425": {
     "name": "Mark Bryant",
     "url": "https://www.basketball-reference.com/players/b/bryanma01.html"
   },
-  {
+  "426": {
     "name": "Thomas Bryant",
     "url": "https://www.basketball-reference.com/players/b/bryanth01.html"
   },
-  {
+  "427": {
     "name": "Wallace Bryant",
     "url": "https://www.basketball-reference.com/players/b/bryanwa01.html"
   },
-  {
+  "428": {
     "name": "Torgeir Bryn",
     "url": "https://www.basketball-reference.com/players/b/brynto01.html"
   },
-  {
+  "429": {
     "name": "George Bucci",
     "url": "https://www.basketball-reference.com/players/b/buccige01.html"
   },
-  {
+  "430": {
     "name": "Shaq Buchanan",
     "url": "https://www.basketball-reference.com/players/b/buchash01.html"
   },
-  {
+  "431": {
     "name": "Joe Buckhalter",
     "url": "https://www.basketball-reference.com/players/b/buckhjo01.html"
   },
-  {
+  "432": {
     "name": "Steve Bucknall",
     "url": "https://www.basketball-reference.com/players/b/bucknst01.html"
   },
-  {
+  "433": {
     "name": "Cleveland Buckner",
     "url": "https://www.basketball-reference.com/players/b/buckncl01.html"
   },
-  {
+  "434": {
     "name": "Greg Buckner",
     "url": "https://www.basketball-reference.com/players/b/buckngr01.html"
   },
-  {
+  "435": {
     "name": "Quinn Buckner",
     "url": "https://www.basketball-reference.com/players/b/bucknqu01.html"
   },
-  {
+  "436": {
     "name": "Dave Budd",
     "url": "https://www.basketball-reference.com/players/b/buddda01.html"
   },
-  {
+  "437": {
     "name": "Chase Budinger",
     "url": "https://www.basketball-reference.com/players/b/budinch01.html"
   },
-  {
+  "438": {
     "name": "Walt Budko",
     "url": "https://www.basketball-reference.com/players/b/budkowa01.html"
   },
-  {
+  "439": {
     "name": "Jud Buechler",
     "url": "https://www.basketball-reference.com/players/b/buechju01.html"
   },
-  {
+  "440": {
     "name": "Rodney Buford",
     "url": "https://www.basketball-reference.com/players/b/buforro01.html"
   },
-  {
+  "441": {
     "name": "Matt Bullard",
     "url": "https://www.basketball-reference.com/players/b/bullama01.html"
   },
-  {
+  "442": {
     "name": "Reggie Bullock",
     "url": "https://www.basketball-reference.com/players/b/bullore01.html"
   },
-  {
+  "443": {
     "name": "Larry Bunce",
     "url": "https://www.basketball-reference.com/players/b/buncela01.html"
   },
-  {
+  "444": {
     "name": "Greg Bunch",
     "url": "https://www.basketball-reference.com/players/b/bunchgr01.html"
   },
-  {
+  "445": {
     "name": "Dick Bunt",
     "url": "https://www.basketball-reference.com/players/b/buntdi01.html"
   },
-  {
+  "446": {
     "name": "Bill Buntin",
     "url": "https://www.basketball-reference.com/players/b/buntibi01.html"
   },
-  {
+  "447": {
     "name": "Bill Bunting",
     "url": "https://www.basketball-reference.com/players/b/buntibi02.html"
   },
-  {
+  "448": {
     "name": "Ticky Burden",
     "url": "https://www.basketball-reference.com/players/b/burdeti01.html"
   },
-  {
+  "449": {
     "name": "Pat Burke",
     "url": "https://www.basketball-reference.com/players/b/burkepa01.html"
   },
-  {
+  "450": {
     "name": "Trey Burke",
     "url": "https://www.basketball-reference.com/players/b/burketr01.html"
   },
-  {
+  "451": {
     "name": "Roger Burkman",
     "url": "https://www.basketball-reference.com/players/b/burkmro01.html"
   },
-  {
+  "452": {
     "name": "Alec Burks",
     "url": "https://www.basketball-reference.com/players/b/burksal01.html"
   },
-  {
+  "453": {
     "name": "Antonio Burks",
     "url": "https://www.basketball-reference.com/players/b/burksan01.html"
   },
-  {
+  "454": {
     "name": "Kevin Burleson",
     "url": "https://www.basketball-reference.com/players/b/burleke01.html"
   },
-  {
+  "455": {
     "name": "Tom Burleson",
     "url": "https://www.basketball-reference.com/players/b/burleto01.html"
   },
-  {
+  "456": {
     "name": "Jack Burmaster",
     "url": "https://www.basketball-reference.com/players/b/burmaja01.html"
   },
-  {
+  "457": {
     "name": "David Burns",
     "url": "https://www.basketball-reference.com/players/b/burnsda01.html"
   },
-  {
+  "458": {
     "name": "Evers Burns",
     "url": "https://www.basketball-reference.com/players/b/burnsev01.html"
   },
-  {
+  "459": {
     "name": "Jim Burns",
     "url": "https://www.basketball-reference.com/players/b/burnsji01.html"
   },
-  {
+  "460": {
     "name": "Scott Burrell",
     "url": "https://www.basketball-reference.com/players/b/burresc01.html"
   },
-  {
+  "461": {
     "name": "Art Burris",
     "url": "https://www.basketball-reference.com/players/b/burriar01.html"
   },
-  {
+  "462": {
     "name": "Junior Burrough",
     "url": "https://www.basketball-reference.com/players/b/burroju01.html"
   },
-  {
+  "463": {
     "name": "Bob Burrow",
     "url": "https://www.basketball-reference.com/players/b/burrobo01.html"
   },
-  {
+  "464": {
     "name": "Deonte Burton",
     "url": "https://www.basketball-reference.com/players/b/burtode02.html"
   },
-  {
+  "465": {
     "name": "Ed Burton",
     "url": "https://www.basketball-reference.com/players/b/burtoed01.html"
   },
-  {
+  "466": {
     "name": "Willie Burton",
     "url": "https://www.basketball-reference.com/players/b/burtowi01.html"
   },
-  {
+  "467": {
     "name": "Steve Burtt",
     "url": "https://www.basketball-reference.com/players/b/burttst01.html"
   },
-  {
+  "468": {
     "name": "Don Buse",
     "url": "https://www.basketball-reference.com/players/b/busedo01.html"
   },
-  {
+  "469": {
     "name": "David Bustion",
     "url": "https://www.basketball-reference.com/players/b/bustida01.html"
   },
-  {
+  "470": {
     "name": "Donnie Butcher",
     "url": "https://www.basketball-reference.com/players/b/butchdo01.html"
   },
-  {
+  "471": {
     "name": "Al Butler",
     "url": "https://www.basketball-reference.com/players/b/butleal01.html"
   },
-  {
+  "472": {
     "name": "Caron Butler",
     "url": "https://www.basketball-reference.com/players/b/butleca01.html"
   },
-  {
+  "473": {
     "name": "Greg Butler",
     "url": "https://www.basketball-reference.com/players/b/butlegr01.html"
   },
-  {
+  "474": {
     "name": "Jackie Butler",
     "url": "https://www.basketball-reference.com/players/b/butleja01.html"
   },
-  {
+  "475": {
     "name": "Jared Butler",
     "url": "https://www.basketball-reference.com/players/b/butleja02.html"
   },
-  {
+  "476": {
     "name": "Jimmy Butler",
     "url": "https://www.basketball-reference.com/players/b/butleji01.html"
   },
-  {
+  "477": {
     "name": "John Butler",
     "url": "https://www.basketball-reference.com/players/b/butlejo01.html"
   },
-  {
+  "478": {
     "name": "Mike Butler",
     "url": "https://www.basketball-reference.com/players/b/butlemi01.html"
   },
-  {
+  "479": {
     "name": "Mitchell Butler",
     "url": "https://www.basketball-reference.com/players/b/butlemi02.html"
   },
-  {
+  "480": {
     "name": "Rasual Butler",
     "url": "https://www.basketball-reference.com/players/b/butlera01.html"
   },
-  {
+  "481": {
     "name": "Dwight Buycks",
     "url": "https://www.basketball-reference.com/players/b/buyckdw01.html"
   },
-  {
+  "482": {
     "name": "Derrick Byars",
     "url": "https://www.basketball-reference.com/players/b/byarsde01.html"
   },
-  {
+  "483": {
     "name": "Andrew Bynum",
     "url": "https://www.basketball-reference.com/players/b/bynuman01.html"
   },
-  {
+  "484": {
     "name": "Will Bynum",
     "url": "https://www.basketball-reference.com/players/b/bynumwi01.html"
   },
-  {
+  "485": {
     "name": "Walt Byrd",
     "url": "https://www.basketball-reference.com/players/b/byrdwa01.html"
   },
-  {
+  "486": {
     "name": "Marty Byrnes",
     "url": "https://www.basketball-reference.com/players/b/byrnema01.html"
   },
-  {
+  "487": {
     "name": "Tommy Byrnes",
     "url": "https://www.basketball-reference.com/players/b/byrneto01.html"
   },
-  {
+  "488": {
     "name": "Michael Bytzura",
     "url": "https://www.basketball-reference.com/players/b/bytzumi01.html"
   }
-]
+}

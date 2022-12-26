@@ -1,1 +1,238 @@
-[{"name":"Steve Vacendak","url":"https://www.basketball-reference.com/players/v/vacenst01.html"},{"name":"Jonas Valančiūnas","url":"https://www.basketball-reference.com/players/v/valanjo01.html"},{"name":"Darnell Valentine","url":"https://www.basketball-reference.com/players/v/valenda01.html"},{"name":"Denzel Valentine","url":"https://www.basketball-reference.com/players/v/valende01.html"},{"name":"Ronnie Valentine","url":"https://www.basketball-reference.com/players/v/valenro01.html"},{"name":"John Vallely","url":"https://www.basketball-reference.com/players/v/vallejo01.html"},{"name":"Dick Van Arsdale","url":"https://www.basketball-reference.com/players/v/vanardi01.html"},{"name":"Tom Van Arsdale","url":"https://www.basketball-reference.com/players/v/vanarto01.html"},{"name":"Nick Van Exel","url":"https://www.basketball-reference.com/players/v/vanexni01.html"},{"name":"Keith Van Horn","url":"https://www.basketball-reference.com/players/v/vanhoke01.html"},{"name":"Norm Van Lier","url":"https://www.basketball-reference.com/players/v/vanlino01.html"},{"name":"Dennis Van Zant","url":"https://www.basketball-reference.com/players/v/vanzade01.html"},{"name":"Fred VanVleet","url":"https://www.basketball-reference.com/players/v/vanvlfr01.html"},{"name":"Gene Vance","url":"https://www.basketball-reference.com/players/v/vancege01.html"},{"name":"Logan Vander Velden","url":"https://www.basketball-reference.com/players/v/vandelo01.html"},{"name":"Jarred Vanderbilt","url":"https://www.basketball-reference.com/players/v/vandeja01.html"},{"name":"Ernie Vandeweghe","url":"https://www.basketball-reference.com/players/v/vandeer01.html"},{"name":"Kiki Vandeweghe","url":"https://www.basketball-reference.com/players/v/vandeki01.html"},{"name":"Nick Vanos","url":"https://www.basketball-reference.com/players/v/vanosni01.html"},{"name":"David Vanterpool","url":"https://www.basketball-reference.com/players/v/vanteda01.html"},{"name":"Ratko Varda","url":"https://www.basketball-reference.com/players/v/vardara01.html"},{"name":"Anderson Varejão","url":"https://www.basketball-reference.com/players/v/varejan01.html"},{"name":"Jarvis Varnado","url":"https://www.basketball-reference.com/players/v/varnaja01.html"},{"name":"Greivis Vásquez","url":"https://www.basketball-reference.com/players/v/vasqugr01.html"},{"name":"Devin Vassell","url":"https://www.basketball-reference.com/players/v/vassede01.html"},{"name":"Chico Vaughn","url":"https://www.basketball-reference.com/players/v/vaughch01.html"},{"name":"David Vaughn","url":"https://www.basketball-reference.com/players/v/vaughda01.html"},{"name":"David Vaughn","url":"https://www.basketball-reference.com/players/v/vaughda02.html"},{"name":"Jacque Vaughn","url":"https://www.basketball-reference.com/players/v/vaughja01.html"},{"name":"Rashad Vaughn","url":"https://www.basketball-reference.com/players/v/vaughra01.html"},{"name":"Virgil Vaughn","url":"https://www.basketball-reference.com/players/v/vaughvi01.html"},{"name":"Loy Vaught","url":"https://www.basketball-reference.com/players/v/vaughlo01.html"},{"name":"Bob Verga","url":"https://www.basketball-reference.com/players/v/vergabo01.html"},{"name":"Pete Verhoeven","url":"https://www.basketball-reference.com/players/v/verhope01.html"},{"name":"Jan Veselý","url":"https://www.basketball-reference.com/players/v/veselja01.html"},{"name":"Gundars Vētra","url":"https://www.basketball-reference.com/players/v/vetragu01.html"},{"name":"João Vianna","url":"https://www.basketball-reference.com/players/v/viannjo01.html"},{"name":"Charlie Villanueva","url":"https://www.basketball-reference.com/players/v/villach01.html"},{"name":"Gabe Vincent","url":"https://www.basketball-reference.com/players/v/vincega01.html"},{"name":"Jay Vincent","url":"https://www.basketball-reference.com/players/v/vinceja01.html"},{"name":"Sam Vincent","url":"https://www.basketball-reference.com/players/v/vincesa01.html"},{"name":"Marcus Vinicius","url":"https://www.basketball-reference.com/players/v/vincima01.html"},{"name":"Fred Vinson","url":"https://www.basketball-reference.com/players/v/vinsofr01.html"},{"name":"Claude Virden","url":"https://www.basketball-reference.com/players/v/virdecl01.html"},{"name":"Gary Voce","url":"https://www.basketball-reference.com/players/v/vocega01.html"},{"name":"Floyd Volker","url":"https://www.basketball-reference.com/players/v/volkefl01.html"},{"name":"Alexander Volkov","url":"https://www.basketball-reference.com/players/v/volkoal01.html"},{"name":"Whitey Von Nieda","url":"https://www.basketball-reference.com/players/v/vonniwh01.html"},{"name":"Noah Vonleh","url":"https://www.basketball-reference.com/players/v/vonleno01.html"},{"name":"Jake Voskuhl","url":"https://www.basketball-reference.com/players/v/voskuja01.html"},{"name":"Danny Vranes","url":"https://www.basketball-reference.com/players/v/vraneda01.html"},{"name":"Slavko Vraneš","url":"https://www.basketball-reference.com/players/v/vranesl01.html"},{"name":"Stojko Vranković","url":"https://www.basketball-reference.com/players/v/vrankst01.html"},{"name":"Brett Vroman","url":"https://www.basketball-reference.com/players/v/vromabr01.html"},{"name":"Jackson Vroman","url":"https://www.basketball-reference.com/players/v/vromaja01.html"},{"name":"Nikola Vučević","url":"https://www.basketball-reference.com/players/v/vucevni01.html"},{"name":"Sasha Vujačić","url":"https://www.basketball-reference.com/players/v/vujacsa01.html"},{"name":"Butch van Breda Kolff","url":"https://www.basketball-reference.com/players/v/vanbrbu01.html"},{"name":"Jan van Breda Kolff","url":"https://www.basketball-reference.com/players/v/vanbrja01.html"}]
+[
+  {
+    "name": "Steve Vacendak",
+    "url": "https://www.basketball-reference.com/players/v/vacenst01.html"
+  },
+  {
+    "name": "Jonas Valančiūnas",
+    "url": "https://www.basketball-reference.com/players/v/valanjo01.html"
+  },
+  {
+    "name": "Darnell Valentine",
+    "url": "https://www.basketball-reference.com/players/v/valenda01.html"
+  },
+  {
+    "name": "Denzel Valentine",
+    "url": "https://www.basketball-reference.com/players/v/valende01.html"
+  },
+  {
+    "name": "Ronnie Valentine",
+    "url": "https://www.basketball-reference.com/players/v/valenro01.html"
+  },
+  {
+    "name": "John Vallely",
+    "url": "https://www.basketball-reference.com/players/v/vallejo01.html"
+  },
+  {
+    "name": "Dick Van Arsdale",
+    "url": "https://www.basketball-reference.com/players/v/vanardi01.html"
+  },
+  {
+    "name": "Tom Van Arsdale",
+    "url": "https://www.basketball-reference.com/players/v/vanarto01.html"
+  },
+  {
+    "name": "Nick Van Exel",
+    "url": "https://www.basketball-reference.com/players/v/vanexni01.html"
+  },
+  {
+    "name": "Keith Van Horn",
+    "url": "https://www.basketball-reference.com/players/v/vanhoke01.html"
+  },
+  {
+    "name": "Norm Van Lier",
+    "url": "https://www.basketball-reference.com/players/v/vanlino01.html"
+  },
+  {
+    "name": "Dennis Van Zant",
+    "url": "https://www.basketball-reference.com/players/v/vanzade01.html"
+  },
+  {
+    "name": "Fred VanVleet",
+    "url": "https://www.basketball-reference.com/players/v/vanvlfr01.html"
+  },
+  {
+    "name": "Gene Vance",
+    "url": "https://www.basketball-reference.com/players/v/vancege01.html"
+  },
+  {
+    "name": "Logan Vander Velden",
+    "url": "https://www.basketball-reference.com/players/v/vandelo01.html"
+  },
+  {
+    "name": "Jarred Vanderbilt",
+    "url": "https://www.basketball-reference.com/players/v/vandeja01.html"
+  },
+  {
+    "name": "Ernie Vandeweghe",
+    "url": "https://www.basketball-reference.com/players/v/vandeer01.html"
+  },
+  {
+    "name": "Kiki Vandeweghe",
+    "url": "https://www.basketball-reference.com/players/v/vandeki01.html"
+  },
+  {
+    "name": "Nick Vanos",
+    "url": "https://www.basketball-reference.com/players/v/vanosni01.html"
+  },
+  {
+    "name": "David Vanterpool",
+    "url": "https://www.basketball-reference.com/players/v/vanteda01.html"
+  },
+  {
+    "name": "Ratko Varda",
+    "url": "https://www.basketball-reference.com/players/v/vardara01.html"
+  },
+  {
+    "name": "Anderson Varejão",
+    "url": "https://www.basketball-reference.com/players/v/varejan01.html"
+  },
+  {
+    "name": "Jarvis Varnado",
+    "url": "https://www.basketball-reference.com/players/v/varnaja01.html"
+  },
+  {
+    "name": "Greivis Vásquez",
+    "url": "https://www.basketball-reference.com/players/v/vasqugr01.html"
+  },
+  {
+    "name": "Devin Vassell",
+    "url": "https://www.basketball-reference.com/players/v/vassede01.html"
+  },
+  {
+    "name": "Chico Vaughn",
+    "url": "https://www.basketball-reference.com/players/v/vaughch01.html"
+  },
+  {
+    "name": "David Vaughn",
+    "url": "https://www.basketball-reference.com/players/v/vaughda01.html"
+  },
+  {
+    "name": "David Vaughn",
+    "url": "https://www.basketball-reference.com/players/v/vaughda02.html"
+  },
+  {
+    "name": "Jacque Vaughn",
+    "url": "https://www.basketball-reference.com/players/v/vaughja01.html"
+  },
+  {
+    "name": "Rashad Vaughn",
+    "url": "https://www.basketball-reference.com/players/v/vaughra01.html"
+  },
+  {
+    "name": "Virgil Vaughn",
+    "url": "https://www.basketball-reference.com/players/v/vaughvi01.html"
+  },
+  {
+    "name": "Loy Vaught",
+    "url": "https://www.basketball-reference.com/players/v/vaughlo01.html"
+  },
+  {
+    "name": "Bob Verga",
+    "url": "https://www.basketball-reference.com/players/v/vergabo01.html"
+  },
+  {
+    "name": "Pete Verhoeven",
+    "url": "https://www.basketball-reference.com/players/v/verhope01.html"
+  },
+  {
+    "name": "Jan Veselý",
+    "url": "https://www.basketball-reference.com/players/v/veselja01.html"
+  },
+  {
+    "name": "Gundars Vētra",
+    "url": "https://www.basketball-reference.com/players/v/vetragu01.html"
+  },
+  {
+    "name": "João Vianna",
+    "url": "https://www.basketball-reference.com/players/v/viannjo01.html"
+  },
+  {
+    "name": "Charlie Villanueva",
+    "url": "https://www.basketball-reference.com/players/v/villach01.html"
+  },
+  {
+    "name": "Gabe Vincent",
+    "url": "https://www.basketball-reference.com/players/v/vincega01.html"
+  },
+  {
+    "name": "Jay Vincent",
+    "url": "https://www.basketball-reference.com/players/v/vinceja01.html"
+  },
+  {
+    "name": "Sam Vincent",
+    "url": "https://www.basketball-reference.com/players/v/vincesa01.html"
+  },
+  {
+    "name": "Marcus Vinicius",
+    "url": "https://www.basketball-reference.com/players/v/vincima01.html"
+  },
+  {
+    "name": "Fred Vinson",
+    "url": "https://www.basketball-reference.com/players/v/vinsofr01.html"
+  },
+  {
+    "name": "Claude Virden",
+    "url": "https://www.basketball-reference.com/players/v/virdecl01.html"
+  },
+  {
+    "name": "Gary Voce",
+    "url": "https://www.basketball-reference.com/players/v/vocega01.html"
+  },
+  {
+    "name": "Floyd Volker",
+    "url": "https://www.basketball-reference.com/players/v/volkefl01.html"
+  },
+  {
+    "name": "Alexander Volkov",
+    "url": "https://www.basketball-reference.com/players/v/volkoal01.html"
+  },
+  {
+    "name": "Whitey Von Nieda",
+    "url": "https://www.basketball-reference.com/players/v/vonniwh01.html"
+  },
+  {
+    "name": "Noah Vonleh",
+    "url": "https://www.basketball-reference.com/players/v/vonleno01.html"
+  },
+  {
+    "name": "Jake Voskuhl",
+    "url": "https://www.basketball-reference.com/players/v/voskuja01.html"
+  },
+  {
+    "name": "Danny Vranes",
+    "url": "https://www.basketball-reference.com/players/v/vraneda01.html"
+  },
+  {
+    "name": "Slavko Vraneš",
+    "url": "https://www.basketball-reference.com/players/v/vranesl01.html"
+  },
+  {
+    "name": "Stojko Vranković",
+    "url": "https://www.basketball-reference.com/players/v/vrankst01.html"
+  },
+  {
+    "name": "Brett Vroman",
+    "url": "https://www.basketball-reference.com/players/v/vromabr01.html"
+  },
+  {
+    "name": "Jackson Vroman",
+    "url": "https://www.basketball-reference.com/players/v/vromaja01.html"
+  },
+  {
+    "name": "Nikola Vučević",
+    "url": "https://www.basketball-reference.com/players/v/vucevni01.html"
+  },
+  {
+    "name": "Sasha Vujačić",
+    "url": "https://www.basketball-reference.com/players/v/vujacsa01.html"
+  },
+  {
+    "name": "Butch van Breda Kolff",
+    "url": "https://www.basketball-reference.com/players/v/vanbrbu01.html"
+  },
+  {
+    "name": "Jan van Breda Kolff",
+    "url": "https://www.basketball-reference.com/players/v/vanbrja01.html"
+  }
+]
