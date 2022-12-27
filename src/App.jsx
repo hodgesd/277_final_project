@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Select, { createFilter } from "react-select";
-import nba_stats from "/Users/derrickhodges/github/277_final_project/src/data/nba_stats.json";
+import nba_stats from "/Users/derrickhodges/github/277_final_project/src/combinedData/nba_stats.json";
 
 function App() {
   const stats = nba_stats;
