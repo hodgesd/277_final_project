@@ -1,6 +1,36 @@
 import React, { useState } from "react";
 import Select, { createFilter } from "react-select";
+// import HighlightedStat from "./components/highlightedStat.jsx";
 import nba_stats from "/Users/derrickhodges/github/277_final_project/src/combinedData/nba_stats.json";
+
+function HighlightedStat({ thisStat, otherStat }) {
+  const thisLeader = thisStat > otherStat;
+  return (
+    <h3
+      className={`my-4 text-center text-2xl ${
+        thisLeader ? "bg-yellow-200 underline decoration-sky-500" : ""
+      }`}
+    >
+      {thisStat}
+    </h3>
+  );
+}
+
+function HighlightedSectStat({ thisPlayer, otherPlayer }) {
+  return (
+    <div className="flex flex-col items-center justify-center">
+      <h2 className="text-center text-2xl underline">{thisPlayer.Player}</h2>
+      <h3 className="my-4 text-center text-2xl">
+        {thisPlayer && thisPlayer.Year}
+      </h3>
+      <HighlightedStat thisStat={thisPlayer.PTS} otherStat={otherPlayer.PTS} />
+      <HighlightedStat thisStat={thisPlayer.TRB} otherStat={otherPlayer.TRB} />
+      <HighlightedStat thisStat={thisPlayer.AST} otherStat={otherPlayer.AST} />
+      <HighlightedStat thisStat={thisPlayer.BLK} otherStat={otherPlayer.BLK} />
+      <HighlightedStat thisStat={thisPlayer.STL} otherStat={otherPlayer.STL} />
+    </div>
+  );
+}
 
 function App() {
   const stats = nba_stats;
@@ -55,54 +85,13 @@ function App() {
         <div className="grid grid-cols-3 items-center justify-center">
           <div className="flex flex-col items-center justify-center">
             <SelectPlayer setter={handleChange} />
-            <h2 className="text-center text-2xl">{selectedOption.Player}</h2>
-            <h3 className="my-4 text-center text-2xl">
-              {selectedOption && selectedOption.Year}
-            </h3>
-            <h3
-              className={`my-4 text-center text-2xl ${
-                leaderPTS_A ? "bg-yellow-200 underline decoration-sky-500" : ""
-              }`}
-            >
-              {selectedOption.PTS}
-            </h3>
-            <h3
-              className={`my-4 text-center text-2xl ${
-                selectedOption.TRB > selectedPlayerB.TRB
-                  ? "underline decoration-sky-500"
-                  : ""
-              }`}
-            >
-              {selectedOption.TRB}
-            </h3>
-            <h3
-              className={`my-4 text-center text-2xl ${
-                selectedOption.AST > selectedPlayerB.AST
-                  ? "underline decoration-sky-500"
-                  : ""
-              }`}
-            >
-              {selectedOption.AST}
-            </h3>
-            <h3
-              className={`my-4 text-center text-2xl ${
-                selectedOption.BLK > selectedPlayerB.BLK
-                  ? "underline decoration-sky-500"
-                  : ""
-              }`}
-            >
-              {selectedOption.BLK}
-            </h3>
-            <h3
-              className={`my-4 text-center text-2xl ${
-                selectedOption.STL > selectedPlayerB.STL &&
-                "underline decoration-sky-500"
-              }`}
-            >
-              {selectedOption.STL}
-            </h3>
+
+            <HighlightedSectStat
+              thisPlayer={selectedOption}
+              otherPlayer={selectedPlayerB}
+            />
           </div>
-          <div className="mt-20 flex flex-col items-center justify-center">
+          <div className="mt-24 flex flex-col items-center justify-center">
             <h2 className="text-center text-2xl">Stats</h2>
             <h3 className="my-4 text-center text-2xl">YEAR</h3>
             <h3 className="my-4 text-center text-2xl">PPG</h3>
@@ -113,53 +102,11 @@ function App() {
           </div>
           <div className="flex flex-col items-center justify-center">
             <SelectPlayer setter={handleChangeB} />
-            <h2 className="text-center text-2xl">{selectedPlayerB.Player}</h2>
-            <h3 className="my-4 text-center text-2xl">
-              {selectedPlayerB.Year}
-            </h3>
-            <h3
-              className={`my-4 text-center text-2xl ${
-                !leaderPTS_A ? "underline decoration-sky-500" : ""
-              }`}
-            >
-              {selectedPlayerB.PTS}
-            </h3>
-            <h3
-              className={`my-4 text-center text-2xl ${
-                selectedOption.TRB < selectedPlayerB.TRB
-                  ? "highlight underline decoration-sky-500"
-                  : ""
-              }`}
-            >
-              {selectedPlayerB.TRB}
-            </h3>
-            <h3
-              className={`my-4 text-center text-2xl ${
-                selectedOption.AST < selectedPlayerB.AST
-                  ? "underline decoration-sky-500"
-                  : ""
-              }`}
-            >
-              {selectedPlayerB.AST}
-            </h3>
-            <h3
-              className={`my-4 text-center text-2xl ${
-                selectedOption.BLK < selectedPlayerB.BLK
-                  ? "underline decoration-sky-500"
-                  : ""
-              }`}
-            >
-              {selectedPlayerB.BLK}
-            </h3>
-            <h3
-              className={`my-4 text-center text-2xl ${
-                selectedOption.STL < selectedPlayerB.STL
-                  ? "underline decoration-sky-500"
-                  : ""
-              }`}
-            >
-              {selectedPlayerB.STL}
-            </h3>
+
+            <HighlightedSectStat
+              thisPlayer={selectedPlayerB}
+              otherPlayer={selectedOption}
+            />
           </div>
         </div>
       </div>
