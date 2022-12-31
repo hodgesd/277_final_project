@@ -1,5 +1,3 @@
-// import HighlightedStat from "./highlightedStat";
-
 function HighlightedStat({ thisStat, otherStat }) {
   const thisLeader = thisStat > otherStat;
   return (
