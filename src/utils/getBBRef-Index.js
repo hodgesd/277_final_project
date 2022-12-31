@@ -10,7 +10,7 @@ async function extractPlayerInfo() {
   const playerObj = {};
 
   // Loop through each letter of the alphabet
-  for (const letter of "abcd") {
+  for (const letter of "acd") {
     // Open a new page in the browser
     const page = await browser.newPage();
 
