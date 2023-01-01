@@ -2,6 +2,11 @@ import axios from "axios";
 import cheerio from "cheerio";
 import findUrlFromName from "./findUrlFromName.js";
 
+// Uses function findUrlFromName to get player bb-ref.com url.  It then scrapes the player's career points, rebounds, and assist, before returning them as an javascript object.
+
+// todo: add playerName parameter to scrapeStats()
+// todo: return null if player doesn't exist
+
 // const player = "Michael Jordan";
 export default function scrapeStats() {
   // Get the URL of the player's stats page
