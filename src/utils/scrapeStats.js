@@ -8,9 +8,9 @@ import findUrlFromName from "./findUrlFromName.js";
 // todo: return null if player doesn't exist
 
 // const player = "Michael Jordan";
-export default function scrapeStats() {
+export default function scrapeStats(player) {
   // Get the URL of the player's stats page
-  const url = findUrlFromName("Michael Jordan");
+  const url = findUrlFromName(player);
   console.log(url);
 
   return axios
@@ -34,6 +34,6 @@ export default function scrapeStats() {
     });
 }
 
-scrapeStats().then((stats) => {
+scrapeStats("Magic Johnson").then((stats) => {
   console.log(stats); // { points: '30.1', rebounds: '6.2', assists: '5.3' }
 });
